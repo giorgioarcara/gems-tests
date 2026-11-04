@@ -60,7 +60,7 @@
     "href": "tests/tele-gems/en.html#download-the-materials",
     "title": "Tele-GEMS ",
     "section": " Download the materials",
-    "text": "Download the materials\nOpen Open materials released under a Creative Commons 3.0 licence. Files are served from the OSF repository. Licence details\n\n Instructions (PDF)  Protocol Tele-GEMS A  Protocol Tele-GEMS B\n\n\n Online cut-off calculator  Scoring sheet (Excel)  OSF repository"
+    "text": "Download the materials\nOpen Open materials released under a CC BY-NC 4.0 licence (Attribution – NonCommercial). Files are hosted on the project’s GitHub repository. Licence details\n\n Instructions (PDF)  Protocol Tele-GEMS A  Protocol Tele-GEMS B\n\n\n Online cut-off calculator  Scoring sheet (Excel)  Shiny app for cut-offs, offline (.zip)  R analysis code (.zip)  Additional scoring notes  All files\n\nTo compute the cut-off, enter age, education, sex, the observed Tele-GEMS score and the Cognitive Reserve Index (CRI), available at cognitivereserveindex.org. Use the CRI only, together with education, to calculate cut-offs."
   },
   {
     "objectID": "tests/tele-gems/en.html#how-to-cite",
@@ -88,7 +88,7 @@
     "href": "tests/gems/it.html#scarica-i-materiali",
     "title": "GEMS ",
     "section": " Scarica i materiali",
-    "text": "Scarica i materiali\nOpen Materiali Open rilasciati con licenza Creative Commons. I file sono scaricati dal repository OSF. Dettagli sulle licenze\n\n Istruzioni (PDF)  Protocollo GEMS-A  Protocollo GEMS-B\n\n\n Calcolo online dei cut-off  Calcolo del punteggio (Excel)  Codice R e Shiny app per i cut-off  Repository OSF"
+    "text": "Scarica i materiali\nOpen Materiali Open rilasciati con licenza CC BY-NC 4.0 (Attribuzione – Non commerciale). I file sono ospitati sul repository GitHub del progetto. Dettagli sulle licenze\n\n Istruzioni (PDF)  Protocollo GEMS-A  Protocollo GEMS-B\n\n\n Calcolo online dei cut-off  Calcolo del punteggio (Excel)  Shiny app per i cut-off, offline (.zip)  Codice R delle analisi (.zip)  Note aggiuntive sul punteggio  Tutti i file"
   },
   {
     "objectID": "tests/gems/it.html#come-citare",
@@ -102,7 +102,7 @@
     "href": "index.html",
     "title": "Global Examination of Mental State",
     "section": "",
-    "text": "Open Science · Open cognitive screening\n\nGlobal Examination of Mental State\n\nThree Open, validated tools for the brief assessment of cognition: in person, by telephone, or self-administered on the web. Each comes with normative data, cut-offs that account for cognitive reserve, and all the materials needed to use it, openly shared.\n\n\n\n\n\n\nOpen\n\nIn person · paper and pencil\n\nGEMS\n\n\nA paper-and-pencil screening of global cognition with 11 tasks covering orientation, memory, attention, visuo-spatial skills, language and pragmatics. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\nOpen\n\nRemote · telephone\n\nTele-GEMS\n\n\nThe telephone version of GEMS for remote screening, with 10 tasks that mirror the in-person test. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\nOpen\n\nSelf-administered · web\n\nAuto-GEMS\n\n\nA self-administered web version that runs in any browser, online or offline, and compares the result with the normative data automatically. It takes about 10 minutes.\n\n\n\n\n\nLearn more →\n\n\n\n\n\n\n\n\nOpen by design\n\nOpen materials, Open norms, Open code\nEvery GEMS tool is shared openly on the Open Science Framework, under Creative Commons licences. This covers record forms, instructions, normative data, scoring sheets, analysis code and apps. You can use, translate and adapt them, as long as you credit the original work.\n\nGEMS · Creative Commons Tele-GEMS · CC 3.0 Auto-GEMS · CC BY 4.0\n\nLicences in detail →\n\n\n\n\n\n\n\nOpen\nRecord forms, instructions, scoring sheets and code are shared openly on OSF under Creative Commons licences.\n\n\n\n\n\nLarge normative samples\nThe norms are based on 600 to 1,300 healthy adults per test, covering the adult lifespan.\n\n\n\n\n\nCognitive reserve\nThe cut-offs account for age, sex, education and the Cognitive Reserve Index (CRIq).\n\n\n\n\n\nBuilt for follow-up\nParallel forms A and B and significant-change thresholds support repeated assessments."
+    "text": "Open Science · Open cognitive screening\n\nGlobal Examination of Mental State\n\nThree Open, validated tools for the brief assessment of cognition: in person, by telephone, or self-administered on the web. Each comes with normative data, cut-offs that account for cognitive reserve, and all the materials needed to use it, openly shared.\n\n\n\n\n\n\nOpen\n\nIn person · paper and pencil\n\nGEMS\n\n\nA paper-and-pencil screening of global cognition with 11 tasks covering orientation, memory, attention, visuo-spatial skills, language and pragmatics. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\nOpen\n\nRemote · telephone\n\nTele-GEMS\n\n\nThe telephone version of GEMS for remote screening, with 10 tasks that mirror the in-person test. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\nOpen\n\nSelf-administered · web\n\nAuto-GEMS\n\n\nA self-administered web version that runs in any browser, online or offline, and compares the result with the normative data automatically. It takes about 10 minutes.\n\n\n\n\n\nLearn more →\n\n\n\n\n\n\n\n\nOpen by design\n\nOpen materials, Open norms, Open code\nEvery GEMS tool is shared openly on this site, under the Creative Commons Attribution – NonCommercial 4.0 licence. This covers record forms, instructions, normative data, scoring sheets, analysis code and apps. You can use, translate and adapt them for non-commercial purposes, as long as you credit the original work.\n\nAll materials and code · CC BY-NC 4.0  Attribution  Non-commercial\n\nLicences in detail →\n\n\n\n\n\n\n\nOpen\nRecord forms, instructions, scoring sheets and code are shared openly on this site under the CC BY-NC 4.0 licence.\n\n\n\n\n\nLarge normative samples\nThe norms are based on 600 to 1,300 healthy adults per test, covering the adult lifespan.\n\n\n\n\n\nCognitive reserve\nThe cut-offs account for age, sex, education and the Cognitive Reserve Index (CRIq).\n\n\n\n\n\nBuilt for follow-up\nParallel forms A and B and significant-change thresholds support repeated assessments."
   },
   {
     "objectID": "contact.html",
@@ -119,6 +119,69 @@
     "text": "Contributing a translation\nWe welcome translations and cross-cultural validations. Please tell us which test and language you are interested in, and briefly describe your project. New versions will be published on this site with their own flag and download page."
   },
   {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Licence",
+    "section": "",
+    "text": "The GEMS, Tele-GEMS and Auto-GEMS test materials are licensed under the Creative Commons Attribution – NonCommercial 4.0 International licence (CC BY-NC 4.0). This covers record forms, instructions, normative data and cut-offs, scoring sheets, analysis code, Shiny apps and JATOS study archives, whether distributed in this repository or as assets of its GitHub Releases.\nLegal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode\nYou are free to:\n\nShare: copy and redistribute the material in any medium or format.\nAdapt: remix, transform, translate and build upon the material.\n\nUnder the following terms:\n\nAttribution: give appropriate credit by citing the original article of the test you use (see below), provide a link to the licence, and indicate if changes were made.\nNonCommercial: you may not use the material for commercial purposes. For commercial use, contact the authors.\n\n\n\n\n\nGEMS: Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nTele-GEMS: Montemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nAuto-GEMS: Pucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z\n\nCopyright © the authors of the articles above.\n\n\n\n\nAuto-GEMS runs on JATOS, which is distributed under the Apache 2.0 licence.\nThe Cognitive Reserve Index questionnaire (CRIq) is a separate instrument with its own terms: https://www.cognitivereserveindex.org/NewEdition/\n\n\n\n\nThe source of this website is released under the same CC BY-NC 4.0 licence. The scientific articles remain under their publishers’ licences."
+  },
+  {
+    "objectID": "LICENSE.html#gems-materials-and-code",
+    "href": "LICENSE.html#gems-materials-and-code",
+    "title": "Licence",
+    "section": "",
+    "text": "The GEMS, Tele-GEMS and Auto-GEMS test materials are licensed under the Creative Commons Attribution – NonCommercial 4.0 International licence (CC BY-NC 4.0). This covers record forms, instructions, normative data and cut-offs, scoring sheets, analysis code, Shiny apps and JATOS study archives, whether distributed in this repository or as assets of its GitHub Releases.\nLegal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode\nYou are free to:\n\nShare: copy and redistribute the material in any medium or format.\nAdapt: remix, transform, translate and build upon the material.\n\nUnder the following terms:\n\nAttribution: give appropriate credit by citing the original article of the test you use (see below), provide a link to the licence, and indicate if changes were made.\nNonCommercial: you may not use the material for commercial purposes. For commercial use, contact the authors."
+  },
+  {
+    "objectID": "LICENSE.html#how-to-cite",
+    "href": "LICENSE.html#how-to-cite",
+    "title": "Licence",
+    "section": "",
+    "text": "GEMS: Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nTele-GEMS: Montemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nAuto-GEMS: Pucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z\n\nCopyright © the authors of the articles above."
+  },
+  {
+    "objectID": "LICENSE.html#third-party-components",
+    "href": "LICENSE.html#third-party-components",
+    "title": "Licence",
+    "section": "",
+    "text": "Auto-GEMS runs on JATOS, which is distributed under the Apache 2.0 licence.\nThe Cognitive Reserve Index questionnaire (CRIq) is a separate instrument with its own terms: https://www.cognitivereserveindex.org/NewEdition/"
+  },
+  {
+    "objectID": "LICENSE.html#website",
+    "href": "LICENSE.html#website",
+    "title": "Licence",
+    "section": "",
+    "text": "The source of this website is released under the same CC BY-NC 4.0 licence. The scientific articles remain under their publishers’ licences."
+  },
+  {
+    "objectID": "open.html",
+    "href": "open.html",
+    "title": "Open & licences",
+    "section": "",
+    "text": "GEMS is an Open project. Every tool in the family is shared openly on this site: record forms, instructions, normative data and cut-offs, scoring sheets, analysis code and apps. All of them are released under the Creative Commons Attribution – NonCommercial 4.0 International licence (CC BY-NC 4.0). You can use, translate and adapt them in clinical and research settings, as long as you credit the original work and do not use them commercially."
+  },
+  {
+    "objectID": "open.html#licences-at-a-glance",
+    "href": "open.html#licences-at-a-glance",
+    "title": "Open & licences",
+    "section": "Licences at a glance",
+    "text": "Licences at a glance\nThe article column shows the publisher’s licence for each paper. That licence is separate from the licence of the test materials.\n\n\n\n\nTest materials\nCode and apps\nScientific article\n\n\n\n\nGEMS\nCC BY-NC 4.0\nR analysis code and Shiny app for cut-offs, CC BY-NC 4.0, download\nOpen access, Creative Commons Attribution (CC BY), Brain and Behavior (2022)\n\n\nTele-GEMS\nCC BY-NC 4.0\nR analysis code and Shiny app for cut-offs, CC BY-NC 4.0, download\nPublished in Neurological Sciences (2023); not open access\n\n\nAuto-GEMS\nCC BY-NC 4.0\nSource code (JATOS study archives) and Shiny app, CC BY-NC 4.0. It runs on JATOS, which is Apache 2.0\nOpen access, CC BY 4.0, Aging Clinical and Experimental Research (2024)"
+  },
+  {
+    "objectID": "open.html#what-you-can-do",
+    "href": "open.html#what-you-can-do",
+    "title": "Open & licences",
+    "section": "What you can do",
+    "text": "What you can do\n\n\n\nUse\nAdminister the tests at no cost, for non-commercial clinical practice and research.\n\n\n\nTranslate and adapt\nTranslate the materials, adapt them to other cultures, and collect new normative data.\n\n\n\nShare\nRedistribute the materials non-commercially, keeping the authorship and the CC BY-NC 4.0 licence notice.\n\n\n\nCredit\nAlways cite the original article of the test you use. The references are on each test page.\n\n\n\nNon-commercial\nSelling the materials, or using them in paid products or services, requires written permission. Contact us."
+  },
+  {
+    "objectID": "open.html#good-practice",
+    "href": "open.html#good-practice",
+    "title": "Open & licences",
+    "section": "Good practice",
+    "text": "Good practice\n\nDownload the materials from this site, so you always have the latest version of the forms and instructions.\nIf you translate or adapt a test, let us know. We are glad to list new language versions on this site, each with its own flag.\nThe Cognitive Reserve Index questionnaire (CRIq), used to compute the cut-offs, is a separate instrument. It is available at cognitivereserveindex.org under its own terms.\n\nThe licence terms stated on the materials themselves take precedence over this summary."
+  },
+  {
     "objectID": "group.html",
     "href": "group.html",
     "title": "The group",
@@ -126,46 +189,18 @@
     "text": "GEMS is developed by researchers from the University of Padua and IRCCS San Camillo Hospital in Venice, who are members of the NICLA group (Neuropsychology: Innovative concepts for Clinical Assessment and rehabilitation).\n\n\n\n\n\nSara Mondini\nUniversity of Padua\n\n\n\n\n\nGiorgio Arcara\nUniversity of Padua\n\n\n\n\n\nSonia Montemurro\nUniversity of Padua\n\n\n\n\nPhotos courtesy of the NICLA group. The GEMS tools were developed with many colleagues; see the publications for the full author lists."
   },
   {
-    "objectID": "open.html",
-    "href": "open.html",
-    "title": "Open & licences",
-    "section": "",
-    "text": "GEMS is an Open project. Every tool in the family is shared on the Open Science Framework (OSF): record forms, instructions, normative data and cut-offs, scoring sheets, analysis code and apps. You can use, translate and adapt them in clinical and research settings, as long as you credit the original work."
-  },
-  {
-    "objectID": "open.html#licences-at-a-glance",
-    "href": "open.html#licences-at-a-glance",
-    "title": "Open & licences",
-    "section": "Licences at a glance",
-    "text": "Licences at a glance\n\n\n\n\nTest materials\nCode and apps\nScientific article\n\n\n\n\nGEMS\nCreative Commons licence, as stated on the record forms and instructions\nR analysis code and Shiny app for cut-offs, on OSF\nOpen access, Creative Commons Attribution (CC BY), Brain and Behavior (2022)\n\n\nTele-GEMS\nCreative Commons 3.0, as stated in the OSF project\nR analysis code and Shiny app for cut-offs, on OSF\nPublished in Neurological Sciences (2023); not open access\n\n\nAuto-GEMS\nCC BY 4.0, the licence of the OSF project\nSource code (JATOS study archives) and Shiny app, CC BY 4.0. It runs on JATOS, which is Apache 2.0\nOpen access, CC BY 4.0, Aging Clinical and Experimental Research (2024)"
-  },
-  {
-    "objectID": "open.html#what-you-can-do",
-    "href": "open.html#what-you-can-do",
-    "title": "Open & licences",
-    "section": "What you can do",
-    "text": "What you can do\n\n\n\nUse\nAdminister the tests in clinical practice and research at no cost.\n\n\n\nTranslate and adapt\nTranslate the materials, adapt them to other cultures, and collect new normative data.\n\n\n\nShare\nRedistribute the materials, keeping the authorship and licence notice.\n\n\n\nCredit\nAlways cite the original article of the test you use. The references are on each test page."
-  },
-  {
-    "objectID": "open.html#good-practice",
-    "href": "open.html#good-practice",
-    "title": "Open & licences",
-    "section": "Good practice",
-    "text": "Good practice\n\nDownload the materials from the official OSF projects, so you always have the latest version of the forms and instructions.\nIf you translate or adapt a test, let us know. We are glad to list new language versions on this site, each with its own flag.\nThe Cognitive Reserve Index questionnaire (CRIq), used to compute the cut-offs, is a separate instrument. It is available at cognitivereserveindex.org under its own terms.\n\nThe licence terms in the OSF projects and on the materials themselves take precedence over this summary."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About GEMS",
     "section": "",
-    "text": "The Global Examination of Mental State (GEMS) is a family of brief cognitive screening tools. They give a quick, reliable picture of a person’s global cognitive functioning when a full neuropsychological assessment is not needed or not possible.\n\n\nMany screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not openly available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen. Record forms, instructions, normative data, scoring sheets and code are shared openly under Creative Commons licences (details).\n\n\n\n\n\n\n\nTest\nMode\nTasks\nNormative sample\n\n\n\n\nGEMS\nIn person, paper and pencil\n11\n635 adults, 18–100 years\n\n\nTele-GEMS\nRemote, by telephone\n10\n601 adults\n\n\nAuto-GEMS\nSelf-administered, web-based\n11\n1,308 adults, 18–93 years\n\n\n\nThe three versions share the same structure, so results can be compared across settings. For example, a patient first seen in person can be followed up remotely.\n\n\n\nGEMS tools are screenings. They do not replace a comprehensive neuropsychological assessment and should be interpreted by qualified professionals."
+    "text": "The Global Examination of Mental State (GEMS) is a family of brief cognitive screening tools. They give a quick, reliable picture of a person’s global cognitive functioning when a full neuropsychological assessment is not needed or not possible.\n\n\nMany screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not openly available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen. Record forms, instructions, normative data, scoring sheets and code are shared openly under the CC BY-NC 4.0 licence (details).\n\n\n\n\n\n\n\nTest\nMode\nTasks\nNormative sample\n\n\n\n\nGEMS\nIn person, paper and pencil\n11\n635 adults, 18–100 years\n\n\nTele-GEMS\nRemote, by telephone\n10\n601 adults\n\n\nAuto-GEMS\nSelf-administered, web-based\n11\n1,308 adults, 18–93 years\n\n\n\nThe three versions share the same structure, so results can be compared across settings. For example, a patient first seen in person can be followed up remotely.\n\n\n\nGEMS tools are screenings. They do not replace a comprehensive neuropsychological assessment and should be interpreted by qualified professionals."
   },
   {
     "objectID": "about.html#why-another-screening",
     "href": "about.html#why-another-screening",
     "title": "About GEMS",
     "section": "",
-    "text": "Many screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not openly available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen. Record forms, instructions, normative data, scoring sheets and code are shared openly under Creative Commons licences (details)."
+    "text": "Many screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not openly available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen. Record forms, instructions, normative data, scoring sheets and code are shared openly under the CC BY-NC 4.0 licence (details)."
   },
   {
     "objectID": "about.html#three-administration-modes",
@@ -186,14 +221,14 @@
     "href": "project.html",
     "title": "The project",
     "section": "",
-    "text": "GEMS is an Open Science project for brief cognitive assessment. It started with the paper-and-pencil GEMS (2022) and grew into a family of tools for in-person, telephone and web-based screening. The work is a collaboration between the University of Padua and IRCCS San Camillo Hospital in Venice, within the NICLA group.\n\n\nAll materials are on the Open Science Framework (OSF) under Creative Commons licences. They include record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs. See Open & licences for the licence of each test.\n\nGEMS: osf.io/4t5a8\nTele-GEMS: osf.io/t3bma\nAuto-GEMS: osf.io/fq8g7\n\n\n\n\nOpen materials make it easy to translate GEMS and collect normative data in other countries. Each test on this site has one page per language, marked by a flag. New languages are added as translations become available.\nIf you would like to translate, adapt or norm GEMS in your language, contact us. We are happy to support cross-cultural validation projects.\n\n\n\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nPucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z"
+    "text": "GEMS is an Open Science project for brief cognitive assessment. It started with the paper-and-pencil GEMS (2022) and grew into a family of tools for in-person, telephone and web-based screening. The work is a collaboration between the University of Padua and IRCCS San Camillo Hospital in Venice, within the NICLA group.\n\n\nAll materials and code are released under the CC BY-NC 4.0 licence (Attribution – NonCommercial) and can be downloaded from each test’s language page. They include record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs. See Open & licences for details.\nThe complete set of files is also available in one place on GitHub. These materials were originally published on the Open Science Framework (OSF projects 4t5a8, t3bma and fq8g7), which is no longer used.\n\n\n\nOpen materials make it easy to translate GEMS and collect normative data in other countries. Each test on this site has one page per language, marked by a flag. New languages are added as translations become available.\nIf you would like to translate, adapt or norm GEMS in your language, contact us. We are happy to support cross-cultural validation projects.\n\n\n\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nPucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z"
   },
   {
     "objectID": "project.html#open-by-design",
     "href": "project.html#open-by-design",
     "title": "The project",
     "section": "",
-    "text": "All materials are on the Open Science Framework (OSF) under Creative Commons licences. They include record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs. See Open & licences for the licence of each test.\n\nGEMS: osf.io/4t5a8\nTele-GEMS: osf.io/t3bma\nAuto-GEMS: osf.io/fq8g7"
+    "text": "All materials and code are released under the CC BY-NC 4.0 licence (Attribution – NonCommercial) and can be downloaded from each test’s language page. They include record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs. See Open & licences for details.\nThe complete set of files is also available in one place on GitHub. These materials were originally published on the Open Science Framework (OSF projects 4t5a8, t3bma and fq8g7), which is no longer used."
   },
   {
     "objectID": "project.html#translations-and-adaptations",
@@ -228,7 +263,7 @@
     "href": "tests/gems/en.html#download-the-materials",
     "title": "GEMS ",
     "section": " Download the materials",
-    "text": "Download the materials\nOpen Open materials released under a Creative Commons licence. Files are served from the OSF repository. Licence details\n\n Instructions (PDF)  Record form GEMS-A  Record form GEMS-B\n\n\n Online cut-off calculator  Scoring sheet (Excel)  R code and Shiny app for cut-offs  OSF repository"
+    "text": "Download the materials\nOpen Open materials released under a CC BY-NC 4.0 licence (Attribution – NonCommercial). Files are hosted on the project’s GitHub repository. Licence details\n\n Instructions (PDF)  Record form GEMS-A  Record form GEMS-B\n\n\n Online cut-off calculator  Scoring sheet (Excel)  Shiny app for cut-offs, offline (.zip)  R analysis code (.zip)  Additional scoring notes  All files"
   },
   {
     "objectID": "tests/gems/en.html#how-to-cite",
@@ -277,7 +312,7 @@
     "href": "tests/tele-gems/it.html#scarica-i-materiali",
     "title": "Tele-GEMS ",
     "section": " Scarica i materiali",
-    "text": "Scarica i materiali\nOpen Materiali Open rilasciati con licenza Creative Commons 3.0. I file sono scaricati dal repository OSF. Dettagli sulle licenze\n\n Istruzioni (PDF)  Protocollo Tele-GEMS A  Protocollo Tele-GEMS B\n\n\n Calcolo online dei cut-off  Calcolo dei punteggi (Excel)  Repository OSF"
+    "text": "Scarica i materiali\nOpen Materiali Open rilasciati con licenza CC BY-NC 4.0 (Attribuzione – Non commerciale). I file sono ospitati sul repository GitHub del progetto. Dettagli sulle licenze\n\n Istruzioni (PDF)  Protocollo Tele-GEMS A  Protocollo Tele-GEMS B\n\n\n Calcolo online dei cut-off  Calcolo dei punteggi (Excel)  Shiny app per i cut-off, offline (.zip)  Codice R delle analisi (.zip)  Note aggiuntive sul punteggio  Tutti i file\n\nPer calcolare il cut-off inserisci età, scolarità, sesso, punteggio Tele-GEMS osservato e Indice di Riserva Cognitiva (CRI), disponibile su cognitivereserveindex.org. Per il calcolo dei cut-off usa solo il CRI, insieme alla scolarità."
   },
   {
     "objectID": "tests/tele-gems/it.html#come-citare",
@@ -305,7 +340,7 @@
     "href": "tests/auto-gems/it.html#usa-e-scarica-auto-gems",
     "title": "Auto-GEMS ",
     "section": " Usa e scarica Auto-GEMS",
-    "text": "Usa e scarica Auto-GEMS\nOpen Materiali e codice Open rilasciati con licenza CC BY 4.0. Il codice sorgente è sul repository OSF. Dettagli sulle licenze\n\n Prova la versione pronta all’uso  Codice sorgente Auto-GEMS-A (.jzip)  Codice sorgente Auto-GEMS-B (.jzip)\n\n\n Shiny app per il confronto normativo  Codice della Shiny app (.zip)  Repository OSF"
+    "text": "Usa e scarica Auto-GEMS\nOpen Materiali e codice Open rilasciati con licenza CC BY-NC 4.0 (Attribuzione – Non commerciale). Il codice sorgente è ospitato sul repository GitHub del progetto. Dettagli sulle licenze\n\n Prova la versione pronta all’uso  Codice sorgente Auto-GEMS-A (.jzip)  Codice sorgente Auto-GEMS-B (.jzip)\n\n\n Shiny app per il confronto normativo, da eseguire in R (.zip)  Leggimi e informativa sui dati  Tutti i file\n\nLa Shiny app si avvia in locale: estrai lo .zip, apri la cartella in R e lancia shiny::runApp(). Serve il file .csv generato da Auto-GEMS, che contiene punteggio, CRI ed età."
   },
   {
     "objectID": "tests/auto-gems/it.html#come-citare",
