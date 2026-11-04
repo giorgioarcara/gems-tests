@@ -124,7 +124,7 @@ You can use, translate and adapt them, as long as you credit the original work.
 
 ### Open
 
-Record forms, instructions, scoring sheets and code are shared openly on OSF under Creative Commons licences.
+Record forms, instructions, scoring sheets and code are shared openly on this site under Creative Commons licences.
 :::
 
 ::: {.strip-item}

@@ -3,3 +3,6 @@
 /articles/
 .DS_Store
 *_files/
+
+# Downloadable materials are hosted as GitHub Release assets, not committed
+/materials/

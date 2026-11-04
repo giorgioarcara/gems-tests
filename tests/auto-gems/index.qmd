@@ -24,7 +24,7 @@ It can be used in three ways: a **ready-to-use online version**, a **local versi
 No sensitive data are stored on the server in the ready-to-use and local versions.
 
 Its 11 tasks cover **orientation, immediate and delayed memory, months backwards, puzzle, spatial representation, naming, comprehension, Trail Making A and B** and **metaphor comprehension**.
-A Shiny app compares the individual score with the normative data, taking age and cognitive reserve into account.
+A Shiny app, which runs locally in R, compares the individual score with the normative data, taking age and cognitive reserve into account.
 :::
 
 ## Choose a language

@@ -55,19 +55,24 @@ lang: it
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Scarica i materiali
 
-[[Open]{.open-badge .inline} Materiali Open rilasciati con **licenza Creative Commons 3.0**. I file sono scaricati dal repository OSF. [Dettagli sulle licenze](../../open.qmd)]{.hint}
+[[Open]{.open-badge .inline} Materiali Open rilasciati con **licenza Creative Commons 3.0**. I file sono ospitati sul repository GitHub del progetto. [Dettagli sulle licenze](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
-[<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://osf.io/download/9aywk/){.btn-dl}
-[<i class="bi bi-file-earmark-pdf"></i> Protocollo Tele-GEMS A](https://osf.io/download/6euxg/){.btn-dl}
-[<i class="bi bi-file-earmark-pdf"></i> Protocollo Tele-GEMS B](https://osf.io/download/f842b/){.btn-dl}
+[<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/tele-gems-it-istruzioni.pdf){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo Tele-GEMS A](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/tele-gems-it-protocollo-A.pdf){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo Tele-GEMS B](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/tele-gems-it-protocollo-B.pdf){.btn-dl}
 :::
 
 ::: {.btn-row}
 [<i class="bi bi-calculator"></i> Calcolo online dei cut-off](https://sonia-montemurro.shinyapps.io/Tele-GEMS_Shiny/){.btn-ghost}
-[<i class="bi bi-file-earmark-spreadsheet"></i> Calcolo dei punteggi (Excel)](https://osf.io/download/c58d9/){.btn-ghost}
-[<i class="bi bi-box-arrow-up-right"></i> Repository OSF](https://osf.io/t3bma/){.btn-ghost}
+[<i class="bi bi-file-earmark-spreadsheet"></i> Calcolo dei punteggi (Excel)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/tele-gems-scoring-sheet.xlsx){.btn-ghost}
+[<i class="bi bi-code-slash"></i> Shiny app per i cut-off, offline (.zip)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/tele-gems-shiny-app.zip){.btn-ghost}
+[<i class="bi bi-file-earmark-zip"></i> Codice R delle analisi (.zip)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/tele-gems-r-analysis.zip){.btn-ghost}
+[<i class="bi bi-file-earmark-text"></i> Note aggiuntive sul punteggio](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/tele-gems-additional-instructions.txt){.btn-ghost}
+[<i class="bi bi-archive"></i> Tutti i file](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1){.btn-ghost}
 :::
+
+[Per calcolare il cut-off inserisci età, scolarità, sesso, punteggio Tele-GEMS osservato e **Indice di Riserva Cognitiva** (CRI), disponibile su [cognitivereserveindex.org](https://www.cognitivereserveindex.org/NewEdition/). Per il calcolo dei cut-off usa solo il CRI, insieme alla scolarità.]{.hint}
 :::
 
 ## Come citare

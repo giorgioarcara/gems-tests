@@ -9,11 +9,9 @@ The work is a collaboration between the University of Padua and IRCCS San Camill
 
 ## Open by design
 
-All materials are on the Open Science Framework (OSF) under Creative Commons licences. They include record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs. See [Open & licences](open.qmd) for the licence of each test.
+All materials are released under Creative Commons licences and can be downloaded from each test's language page. They include record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs. See [Open & licences](open.qmd) for the licence of each test.
 
-- GEMS: [osf.io/4t5a8](https://osf.io/4t5a8/)
-- Tele-GEMS: [osf.io/t3bma](https://osf.io/t3bma/)
-- Auto-GEMS: [osf.io/fq8g7](https://osf.io/fq8g7/)
+The complete set of files is also available in [one place on GitHub](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1). These materials were originally published on the Open Science Framework (OSF projects 4t5a8, t3bma and fq8g7), which is no longer used.
 
 ## Translations and adaptations
 

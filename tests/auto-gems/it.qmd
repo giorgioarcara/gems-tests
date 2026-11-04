@@ -55,19 +55,21 @@ lang: it
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Usa e scarica Auto-GEMS
 
-[[Open]{.open-badge .inline} Materiali e codice Open rilasciati con licenza **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)**. Il codice sorgente è sul repository OSF. [Dettagli sulle licenze](../../open.qmd)]{.hint}
+[[Open]{.open-badge .inline} Materiali e codice Open rilasciati con licenza **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)**. Il codice sorgente è ospitato sul repository GitHub del progetto. [Dettagli sulle licenze](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
 [<i class="bi bi-play-circle"></i> Prova la versione pronta all'uso](https://unipd.link/auto-GEMS){.btn-dl}
-[<i class="bi bi-file-earmark-zip"></i> Codice sorgente Auto-GEMS-A (.jzip)](https://osf.io/download/r9jw8/){.btn-dl}
-[<i class="bi bi-file-earmark-zip"></i> Codice sorgente Auto-GEMS-B (.jzip)](https://osf.io/download/r3qdj/){.btn-dl}
+[<i class="bi bi-file-earmark-zip"></i> Codice sorgente Auto-GEMS-A (.jzip)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/auto-gems-A-it.jzip){.btn-dl}
+[<i class="bi bi-file-earmark-zip"></i> Codice sorgente Auto-GEMS-B (.jzip)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/auto-gems-B-it.jzip){.btn-dl}
 :::
 
 ::: {.btn-row}
-[<i class="bi bi-calculator"></i> Shiny app per il confronto normativo](https://gcontemori.shinyapps.io/autogems_shiny/){.btn-ghost}
-[<i class="bi bi-code-slash"></i> Codice della Shiny app (.zip)](https://osf.io/download/bh6xj/){.btn-ghost}
-[<i class="bi bi-box-arrow-up-right"></i> Repository OSF](https://osf.io/fq8g7/){.btn-ghost}
+[<i class="bi bi-calculator"></i> Shiny app per il confronto normativo, da eseguire in R (.zip)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/auto-gems-shiny-app.zip){.btn-ghost}
+[<i class="bi bi-file-earmark-text"></i> Leggimi e informativa sui dati](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/auto-gems-README.txt){.btn-ghost}
+[<i class="bi bi-archive"></i> Tutti i file](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1){.btn-ghost}
 :::
+
+[La Shiny app si avvia in locale: estrai lo .zip, apri la cartella in R e lancia `shiny::runApp()`. Serve il file .csv generato da Auto-GEMS, che contiene punteggio, CRI ed età.]{.hint}
 :::
 
 ## Come citare

@@ -1,0 +1,33 @@
+asset	osf_guid	osf_path	description
+gems-README.txt	u9h4n	4t5a8/README.txt	GEMS: overview of the materials
+gems-additional-instructions.txt	r2vq9	4t5a8/Protocolli e Istruzioni_Protocols and instructions/README_ADDITIONAL INSTRUCTIONS.txt	GEMS: additional scoring instructions (months backwards)
+gems-en-instructions.pdf	d67my	4t5a8/Protocolli e Istruzioni_Protocols and instructions/English/Instructions.pdf	GEMS: instructions (English)
+gems-en-record-form-A.pdf	tvkmn	4t5a8/Protocolli e Istruzioni_Protocols and instructions/English/GEMS - A.pdf	GEMS: record form A (English)
+gems-en-record-form-B.pdf	razbv	4t5a8/Protocolli e Istruzioni_Protocols and instructions/English/GEMS - B.pdf	GEMS: record form B (English)
+gems-it-istruzioni-v1.1.pdf	k75ez	4t5a8/Protocolli e Istruzioni_Protocols and instructions/Italian/ISTRUZIONI_GEMS_1.1.pdf	GEMS: istruzioni v1.1 (Italiano)
+gems-it-protocollo-A-v1.3.pdf	n3msb	4t5a8/Protocolli e Istruzioni_Protocols and instructions/Italian/GEMS - A _ 1.3.pdf	GEMS: protocollo A v1.3 (Italiano)
+gems-it-protocollo-B-v1.3.pdf	gkb3t	4t5a8/Protocolli e Istruzioni_Protocols and instructions/Italian/GEMS - B _ 1.3.pdf	GEMS: protocollo B v1.3 (Italiano)
+gems-scoring-sheet.xlsx	wv3us	4t5a8/CALCOLO PUNTEGGIO GLOBALE E SHINY APP  - GLOBAL SCORE CALCULATION AND SHINY APP/Excel per CALCOLO PUNTEGGIO TOTALE PONDERATO GEMS.xlsx	GEMS: weighted total score calculation (Excel)
+gems-shiny-app-link.txt	79y2t	4t5a8/CALCOLO PUNTEGGIO GLOBALE E SHINY APP  - GLOBAL SCORE CALCULATION AND SHINY APP/La Shiny_App.txt	GEMS: link to the online Shiny app
+gems-r-code-README.txt	spnw6	4t5a8/R Code/GEMS R code - README.txt	GEMS: R code README
+gems-r-analysis-2022-07-08.zip	sy2wq	4t5a8/R Code/GEMS - analysis 08-07-22.zip	GEMS: R project with the analysis code
+gems-shiny-app.zip	63tz9	4t5a8/R Code/GEMS shiny.zip	GEMS: Shiny app source for cut-offs (offline)
+tele-gems-README.txt	958pk	t3bma/TELE-GEMS_README.txt	Tele-GEMS: overview
+tele-gems-additional-instructions.txt	yz5xk	t3bma/PROTOCOLS AND INSTRUCTIONS/README_ADDITIONAL INSTRUCTIONS.txt	Tele-GEMS: additional scoring instructions (months backwards)
+tele-gems-en-README.rtf	78req	t3bma/PROTOCOLS AND INSTRUCTIONS/English version/README.rtf	Tele-GEMS: note on the English version
+tele-gems-en-instructions.pdf	2qr7j	t3bma/PROTOCOLS AND INSTRUCTIONS/English version/Tele-GEMS_instructions.pdf	Tele-GEMS: instructions (English)
+tele-gems-en-protocol-A.pdf	54rzk	t3bma/PROTOCOLS AND INSTRUCTIONS/English version/Tele-GEMS A.pdf	Tele-GEMS: protocol A (English)
+tele-gems-en-protocol-B.pdf	c7ekw	t3bma/PROTOCOLS AND INSTRUCTIONS/English version/Tele-GEMS B.pdf	Tele-GEMS: protocol B (English)
+tele-gems-it-istruzioni.pdf	9aywk	t3bma/PROTOCOLS AND INSTRUCTIONS/Italian version/Tele-GEMS_istruzioni.pdf	Tele-GEMS: istruzioni (Italiano)
+tele-gems-it-protocollo-A.pdf	6euxg	t3bma/PROTOCOLS AND INSTRUCTIONS/Italian version/Tele-GEMS A.pdf	Tele-GEMS: protocollo A (Italiano)
+tele-gems-it-protocollo-B.pdf	f842b	t3bma/PROTOCOLS AND INSTRUCTIONS/Italian version/Tele-GEMS B.pdf	Tele-GEMS: protocollo B (Italiano)
+tele-gems-scoring-sheet.xlsx	c58d9	t3bma/CALCOLO PUNTEGGI Tele-GEMS.xlsx	Tele-GEMS: score calculation (Excel)
+tele-gems-shiny-app-link.txt	5vcjd	t3bma/SHINY APP FOR AUTOMATIC CALCULATION OF CUT-OFFS/Tele-GEMS Online_Shiny_App.txt	Tele-GEMS: link and usage of the online Shiny app
+tele-gems-r-code-README.txt	k4x3m	t3bma/R Code/Tele-GEMS R code - README.txt	Tele-GEMS: R code README
+tele-gems-r-analysis.zip	3cg2z	t3bma/R Code/Tele-GEMS - analysis.zip	Tele-GEMS: R project with the analysis code
+tele-gems-shiny-app.zip	vpfsn	t3bma/R Code/Tele-GEMS Shiny.zip	Tele-GEMS: Shiny app source for cut-offs (offline)
+tele-gems-cutoff-tables-README.docx	kzy75	t3bma/Cut-Off Tables/README.docx	Tele-GEMS: note on cut-off and significant-change tables (also hca46, identical)
+auto-gems-README.txt	hsud9	fq8g7/READ ME.txt	Auto-GEMS: overview and data-handling disclaimer
+auto-gems-A-it.jzip	r9jw8	fq8g7/Source code (JZIP format)/auto-gems_a_italian_public.jzip	Auto-GEMS-A source, JATOS study archive (Italiano)
+auto-gems-B-it.jzip	r3qdj	fq8g7/Source code (JZIP format)/auto-gems_b_italian_public.jzip	Auto-GEMS-B source, JATOS study archive (Italiano)
+auto-gems-shiny-app.zip	bh6xj	fq8g7/Shiny app for cut-off calculation/auto-GEMS Shiny.zip	Auto-GEMS: Shiny app source for normative comparison (run in R)

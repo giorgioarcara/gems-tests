@@ -54,19 +54,21 @@ lang: it
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Scarica i materiali
 
-[[Open]{.open-badge .inline} Materiali Open rilasciati con **licenza Creative Commons**. I file sono scaricati dal repository OSF. [Dettagli sulle licenze](../../open.qmd)]{.hint}
+[[Open]{.open-badge .inline} Materiali Open rilasciati con **licenza Creative Commons**. I file sono ospitati sul repository GitHub del progetto. [Dettagli sulle licenze](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
-[<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://osf.io/download/k75ez/){.btn-dl}
-[<i class="bi bi-file-earmark-pdf"></i> Protocollo GEMS-A](https://osf.io/download/n3msb/){.btn-dl}
-[<i class="bi bi-file-earmark-pdf"></i> Protocollo GEMS-B](https://osf.io/download/gkb3t/){.btn-dl}
+[<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-it-istruzioni-v1.1.pdf){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo GEMS-A](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-it-protocollo-A-v1.3.pdf){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo GEMS-B](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-it-protocollo-B-v1.3.pdf){.btn-dl}
 :::
 
 ::: {.btn-row}
 [<i class="bi bi-calculator"></i> Calcolo online dei cut-off](https://giorgioarcara.shinyapps.io/GEMS_app/){.btn-ghost}
-[<i class="bi bi-file-earmark-spreadsheet"></i> Calcolo del punteggio (Excel)](https://osf.io/download/wv3us/){.btn-ghost}
-[<i class="bi bi-code-slash"></i> Codice R e Shiny app per i cut-off](https://osf.io/download/63tz9/){.btn-ghost}
-[<i class="bi bi-box-arrow-up-right"></i> Repository OSF](https://osf.io/4t5a8/){.btn-ghost}
+[<i class="bi bi-file-earmark-spreadsheet"></i> Calcolo del punteggio (Excel)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-scoring-sheet.xlsx){.btn-ghost}
+[<i class="bi bi-code-slash"></i> Shiny app per i cut-off, offline (.zip)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-shiny-app.zip){.btn-ghost}
+[<i class="bi bi-file-earmark-zip"></i> Codice R delle analisi (.zip)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-r-analysis-2022-07-08.zip){.btn-ghost}
+[<i class="bi bi-file-earmark-text"></i> Note aggiuntive sul punteggio](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-additional-instructions.txt){.btn-ghost}
+[<i class="bi bi-archive"></i> Tutti i file](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1){.btn-ghost}
 :::
 :::
 
