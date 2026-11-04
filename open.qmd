@@ -3,7 +3,7 @@ title: "Open & licences"
 ---
 
 ::: {.open-hero}
-![](images/logo.svg){.open-hero-gem fig-alt="GEMS hexagonal gem logo"}
+![](images/gems-logo.svg){.open-hero-gem fig-alt="GEMS hexagonal gem logo"}
 
 ::: {.prose}
 GEMS is an **Open** project. Every tool in the family is shared openly on this site: record forms, instructions, normative data and cut-offs, scoring sheets, analysis code and apps.

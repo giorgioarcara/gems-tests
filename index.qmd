@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.hero}
-![](images/logo.svg){.hero-gem fig-alt="GEMS hexagonal gem logo"}
+![](images/gems-logo.svg){.hero-gem fig-alt="GEMS hexagonal gem logo"}
 
 [Open Science · Open cognitive screening]{.eyebrow}
 
@@ -96,7 +96,7 @@ A self-administered web version that runs in any browser, online or offline, and
 
 ::: {.open-band}
 ::: {.open-band-gem}
-![](images/logo.svg){fig-alt=""}
+![](images/gems-logo.svg){fig-alt=""}
 :::
 
 ::: {.open-band-text}

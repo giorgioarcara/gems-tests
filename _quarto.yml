@@ -9,10 +9,10 @@ website:
   description: "GEMS, Tele-GEMS and Auto-GEMS: Open tools for the brief screening of cognition."
   site-url: https://giorgioarcara.github.io/gems-tests/
   repo-url: https://github.com/giorgioarcara/gems-tests
-  favicon: images/logo.svg
+  favicon: images/gems-logo.svg
   page-navigation: false
   navbar:
-    logo: images/logo.svg
+    logo: images/gems-logo.svg
     title: "GEMS"
     left:
       - text: "GEMS"
