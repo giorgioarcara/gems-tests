@@ -1,0 +1,44 @@
+---
+pagetitle: "Tele-GEMS · Tele-Global Examination of Mental State"
+---
+
+::: {.page-head .tele}
+[[Home](../../index.qmd) / Tests]{.crumb}
+
+# Tele-GEMS
+
+[Tele-Global Examination of Mental State]{.sub}
+:::
+
+::: {.chips}
+[<i class="bi bi-telephone"></i> Remote, by telephone]{.chip}
+[<i class="bi bi-clock"></i> About 10 minutes]{.chip}
+[<i class="bi bi-list-check"></i> 10 tasks]{.chip}
+[<i class="bi bi-files"></i> Parallel forms A and B]{.chip}
+[<i class="bi bi-people"></i> 601 adults, 18+ years]{.chip}
+:::
+
+::: {.prose}
+Tele-GEMS is a telephone-based cognitive screening, developed as the remote counterpart of GEMS.
+It mirrors the structure and items of the in-person test as closely as possible, so remote and in-person assessments can be compared, for example in follow-ups after a first assessment with GEMS.
+
+Its 10 tasks cover **orientation, immediate and delayed memory, working memory (backward months), spatial representation, naming, verbal comprehension, auditory attention, verbal fluency** and **metaphor comprehension**.
+Cut-offs account for age, sex, education and the **Cognitive Reserve Index**. An online Shiny app computes them automatically.
+:::
+
+## Choose a language
+
+Each language page lists the main characteristics of the test and the materials to download.
+
+```{=html}
+<div class="lang-grid">
+<a class="lang-card" href="it.html"><img class="flag" src="../../images/flags/it.svg" alt=""><div><strong>Italiano</strong><span>Original version, Italian norms</span></div></a>
+<a class="lang-card" href="en.html"><img class="flag" src="../../images/flags/gb.svg" alt=""><div><strong>English</strong><span>Translated materials</span></div></a>
+</div>
+```
+
+## Reference
+
+::: {.cite}
+Montemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. *Neurological Sciences, 44*, 3499–3508. <https://doi.org/10.1007/s10072-023-06862-1>
+:::

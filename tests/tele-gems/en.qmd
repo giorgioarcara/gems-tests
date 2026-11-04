@@ -1,0 +1,80 @@
+---
+pagetitle: "Tele-GEMS · English"
+---
+
+::: {.page-head .tele}
+[[Home](../../index.qmd) / [Tele-GEMS](index.qmd) / English]{.crumb}
+
+# Tele-GEMS <img class="flag" src="../../images/flags/gb.svg" alt="English" style="vertical-align:middle;margin-left:.4rem">
+
+[Tele-Global Examination of Mental State · English materials]{.sub}
+:::
+
+::: {.callout-note appearance="simple"}
+The English protocols and instructions are translations of the original Italian test, provided for cross-cultural validation. The normative data and cut-offs come from the Italian sample.
+:::
+
+## Main characteristics
+
+::: {.facts}
+::: {.fact}
+[Normative sample]{.fact-label}
+[601]{.fact-value}
+[healthy Italian adults, North, Centre and South of Italy]{.fact-note}
+:::
+::: {.fact}
+[Clinical sample]{.fact-label}
+[30]{.fact-value}
+[patients with multiple sclerosis]{.fact-note}
+:::
+::: {.fact}
+[Administration]{.fact-label}
+[~10 min]{.fact-value}
+[remote, by telephone]{.fact-note}
+:::
+::: {.fact}
+[Inter-rater agreement]{.fact-label}
+[ICC 0.98]{.fact-value}
+[50 participants]{.fact-note}
+:::
+:::
+
+### Psychometric properties
+
+| Property | Result |
+|---|---|
+| Internal consistency | Cronbach's α = 0.74 |
+| Test-retest reliability (2-month interval, n = 50) | r = 0.62 |
+| Inter-rater reliability (n = 50) | ICC = 0.98 |
+| Parallel forms (Tele-GEMS A vs B, n = 101) | r = 0.75 |
+| Criterion validity | Predicted by the in-person GEMS (n = 100) |
+| Construct validity | Related to MoCA (n = 50) and to a neuropsychological summary score in MS patients |
+| Norms | Regression-based cut-offs for age, sex, education and Cognitive Reserve Index |
+| Follow-up | Thresholds for significant change over time |
+: {.props}
+
+**Tasks:** orientation, immediate memory recall, backward months, spatial representation, naming, delayed memory recall, verbal comprehension, auditory attention, verbal fluency, metaphor comprehension.
+
+::: {.downloads}
+## <i class="bi bi-download"></i> Download the materials
+
+[Free to use under a Creative Commons licence. Files are served from the OSF repository.]{.hint}
+
+::: {.btn-row}
+[<i class="bi bi-file-earmark-text"></i> Instructions (PDF)](https://osf.io/download/2qr7j/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocol Tele-GEMS A](https://osf.io/download/54rzk/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocol Tele-GEMS B](https://osf.io/download/c7ekw/){.btn-dl}
+:::
+
+::: {.btn-row}
+[<i class="bi bi-calculator"></i> Online cut-off calculator](https://sonia-montemurro.shinyapps.io/Tele-GEMS_Shiny/){.btn-ghost}
+[<i class="bi bi-file-earmark-spreadsheet"></i> Scoring sheet (Excel)](https://osf.io/download/c58d9/){.btn-ghost}
+[<i class="bi bi-box-arrow-up-right"></i> OSF repository](https://osf.io/t3bma/){.btn-ghost}
+:::
+:::
+
+## How to cite
+
+::: {.cite}
+Montemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. *Neurological Sciences, 44*, 3499–3508. <https://doi.org/10.1007/s10072-023-06862-1>
+:::

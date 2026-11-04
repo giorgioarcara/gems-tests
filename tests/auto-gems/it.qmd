@@ -1,0 +1,77 @@
+---
+pagetitle: "Auto-GEMS · Italiano"
+lang: it
+---
+
+::: {.page-head .auto}
+[[Home](../../index.qmd) / [Auto-GEMS](index.qmd) / Italiano]{.crumb}
+
+# Auto-GEMS <img class="flag" src="../../images/flags/it.svg" alt="Italiano" style="vertical-align:middle;margin-left:.4rem">
+
+[Auto-Global Examination of Mental State · versione italiana]{.sub}
+:::
+
+## Caratteristiche principali
+
+::: {.facts}
+::: {.fact}
+[Campione normativo]{.fact-label}
+[1.308]{.fact-value}
+[adulti sani italiani (60% donne)]{.fact-note}
+:::
+::: {.fact}
+[Età]{.fact-label}
+[18–93]{.fact-value}
+[anni (media 51,2)]{.fact-note}
+:::
+::: {.fact}
+[Somministrazione]{.fact-label}
+[~10 min]{.fact-value}
+[autosomministrata, via web]{.fact-note}
+:::
+::: {.fact}
+[Test-retest]{.fact-label}
+[r 0,88]{.fact-value}
+[73 partecipanti, 4 settimane]{.fact-note}
+:::
+:::
+
+### Proprietà psicometriche
+
+| Proprietà | Risultato |
+|---|---|
+| Coerenza interna | α di Cronbach = 0,72 |
+| Attendibilità test-retest (Auto-GEMS-A, n = 73) | r = 0,88 |
+| Forme parallele (Auto-GEMS-A vs B, n = 39) | r = 0,55, nessun effetto pratica con la forma B |
+| Validità convergente | GEMS r = 0,74 (n = 74); Tele-GEMS r = 0,49 (n = 30) |
+| Distribuzione | Nessun effetto soffitto o pavimento |
+| Norme | Cut-off basati su regressione su variabili demografiche e riserva cognitiva |
+: {.props}
+
+**Prove:** orientamento, memoria immediata, mesi all'indietro, puzzle, rappresentazione spaziale, memoria differita, denominazione, comprensione, Trail Making A, Trail Making B, comprensione di metafore.
+
+**Modalità d'uso:** versione pronta all'uso online, versione locale che funziona senza connessione su JATOS, raccolta dati da remoto sul proprio server JATOS.
+
+::: {.downloads}
+## <i class="bi bi-download"></i> Usa e scarica Auto-GEMS
+
+[Uso libero con licenza Creative Commons. Il codice sorgente è sul repository OSF.]{.hint}
+
+::: {.btn-row}
+[<i class="bi bi-play-circle"></i> Prova la versione pronta all'uso](https://unipd.link/auto-GEMS){.btn-dl}
+[<i class="bi bi-file-earmark-zip"></i> Codice sorgente Auto-GEMS-A (.jzip)](https://osf.io/download/r9jw8/){.btn-dl}
+[<i class="bi bi-file-earmark-zip"></i> Codice sorgente Auto-GEMS-B (.jzip)](https://osf.io/download/r3qdj/){.btn-dl}
+:::
+
+::: {.btn-row}
+[<i class="bi bi-calculator"></i> Shiny app per il confronto normativo](https://gcontemori.shinyapps.io/autogems_shiny/){.btn-ghost}
+[<i class="bi bi-code-slash"></i> Codice della Shiny app (.zip)](https://osf.io/download/bh6xj/){.btn-ghost}
+[<i class="bi bi-box-arrow-up-right"></i> Repository OSF](https://osf.io/fq8g7/){.btn-ghost}
+:::
+:::
+
+## Come citare
+
+::: {.cite}
+Pucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. *Aging Clinical and Experimental Research, 36*, 216. <https://doi.org/10.1007/s40520-024-02862-z>
+:::

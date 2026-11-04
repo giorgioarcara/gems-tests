@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - images/
+
+website:
+  title: "GEMS"
+  description: "GEMS, Tele-GEMS and Auto-GEMS: open-access tools for the brief screening of cognition."
+  site-url: https://giorgioarcara.github.io/gems-tests/
+  repo-url: https://github.com/giorgioarcara/gems-tests
+  favicon: images/logo.svg
+  page-navigation: false
+  navbar:
+    logo: images/logo.svg
+    title: "GEMS"
+    left:
+      - text: "GEMS"
+        href: tests/gems/index.qmd
+      - text: "Tele-GEMS"
+        href: tests/tele-gems/index.qmd
+      - text: "Auto-GEMS"
+        href: tests/auto-gems/index.qmd
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Project"
+        href: project.qmd
+      - text: "Group"
+        href: group.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "© 2026 The GEMS project · Materials released under a Creative Commons licence"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false
+    title-block-banner: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">

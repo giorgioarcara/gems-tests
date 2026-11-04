@@ -1,0 +1,77 @@
+---
+pagetitle: "Tele-GEMS · Italiano"
+lang: it
+---
+
+::: {.page-head .tele}
+[[Home](../../index.qmd) / [Tele-GEMS](index.qmd) / Italiano]{.crumb}
+
+# Tele-GEMS <img class="flag" src="../../images/flags/it.svg" alt="Italiano" style="vertical-align:middle;margin-left:.4rem">
+
+[Tele-Global Examination of Mental State · versione italiana]{.sub}
+:::
+
+## Caratteristiche principali
+
+::: {.facts}
+::: {.fact}
+[Campione normativo]{.fact-label}
+[601]{.fact-value}
+[adulti sani italiani, Nord, Centro e Sud Italia]{.fact-note}
+:::
+::: {.fact}
+[Campione clinico]{.fact-label}
+[30]{.fact-value}
+[pazienti con sclerosi multipla]{.fact-note}
+:::
+::: {.fact}
+[Somministrazione]{.fact-label}
+[~10 min]{.fact-value}
+[da remoto, per telefono]{.fact-note}
+:::
+::: {.fact}
+[Accordo tra valutatori]{.fact-label}
+[ICC 0,98]{.fact-value}
+[50 partecipanti]{.fact-note}
+:::
+:::
+
+### Proprietà psicometriche
+
+| Proprietà | Risultato |
+|---|---|
+| Coerenza interna | α di Cronbach = 0,74 |
+| Attendibilità test-retest (intervallo di 2 mesi, n = 50) | r = 0,62 |
+| Attendibilità tra valutatori (n = 50) | ICC = 0,98 |
+| Forme parallele (Tele-GEMS A vs B, n = 101) | r = 0,75 |
+| Validità di criterio | Predetta dalla GEMS in presenza (n = 100) |
+| Validità di costrutto | Correlata con MoCA (n = 50) e con un punteggio neuropsicologico riassuntivo nei pazienti con SM |
+| Norme | Cut-off basati su regressione per età, sesso, scolarità e Indice di Riserva Cognitiva |
+| Follow-up | Soglie di cambiamento significativo nel tempo |
+: {.props}
+
+**Prove:** orientamento, rievocazione immediata, mesi all'indietro, rappresentazione spaziale, denominazione, rievocazione differita, comprensione verbale, attenzione uditiva, fluenza verbale, comprensione di metafore.
+
+::: {.downloads}
+## <i class="bi bi-download"></i> Scarica i materiali
+
+[Uso libero con licenza Creative Commons. I file sono scaricati dal repository OSF.]{.hint}
+
+::: {.btn-row}
+[<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://osf.io/download/9aywk/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo Tele-GEMS A](https://osf.io/download/6euxg/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo Tele-GEMS B](https://osf.io/download/f842b/){.btn-dl}
+:::
+
+::: {.btn-row}
+[<i class="bi bi-calculator"></i> Calcolo online dei cut-off](https://sonia-montemurro.shinyapps.io/Tele-GEMS_Shiny/){.btn-ghost}
+[<i class="bi bi-file-earmark-spreadsheet"></i> Calcolo dei punteggi (Excel)](https://osf.io/download/c58d9/){.btn-ghost}
+[<i class="bi bi-box-arrow-up-right"></i> Repository OSF](https://osf.io/t3bma/){.btn-ghost}
+:::
+:::
+
+## Come citare
+
+::: {.cite}
+Montemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. *Neurological Sciences, 44*, 3499–3508. <https://doi.org/10.1007/s10072-023-06862-1>
+:::

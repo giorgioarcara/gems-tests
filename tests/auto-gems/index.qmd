@@ -1,0 +1,45 @@
+---
+pagetitle: "Auto-GEMS · Auto-Global Examination of Mental State"
+---
+
+::: {.page-head .auto}
+[[Home](../../index.qmd) / Tests]{.crumb}
+
+# Auto-GEMS
+
+[Auto-Global Examination of Mental State]{.sub}
+:::
+
+::: {.chips}
+[<i class="bi bi-laptop"></i> Self-administered, web-based]{.chip}
+[<i class="bi bi-clock"></i> About 10 minutes]{.chip}
+[<i class="bi bi-list-check"></i> 11 tasks]{.chip}
+[<i class="bi bi-files"></i> Parallel forms A and B]{.chip}
+[<i class="bi bi-people"></i> 1,308 adults, 18–93 years]{.chip}
+:::
+
+::: {.prose}
+Auto-GEMS is a web-based, self-administered version of GEMS. It runs in any current browser and is built on jsPsych and JATOS.
+It can be used in three ways: a **ready-to-use online version**, a **local version** that runs offline on the clinician's computer, and a **remote data-collection** setup for research on your own JATOS server.
+No sensitive data are stored on the server in the ready-to-use and local versions.
+
+Its 11 tasks cover **orientation, immediate and delayed memory, months backwards, puzzle, spatial representation, naming, comprehension, Trail Making A and B** and **metaphor comprehension**.
+A Shiny app compares the individual score with the normative data, taking age and cognitive reserve into account.
+:::
+
+## Choose a language
+
+Each language page lists the main characteristics of the test and the materials to download.
+
+```{=html}
+<div class="lang-grid">
+<a class="lang-card" href="it.html"><img class="flag" src="../../images/flags/it.svg" alt=""><div><strong>Italiano</strong><span>Original version, Italian norms</span></div></a>
+<div class="lang-card soon"><i class="bi bi-translate" style="font-size:1.4rem"></i><div><strong>More languages</strong><span>In preparation. Get in touch to contribute.</span></div></div>
+</div>
+```
+
+## Reference
+
+::: {.cite}
+Pucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. *Aging Clinical and Experimental Research, 36*, 216. <https://doi.org/10.1007/s40520-024-02862-z>
+:::

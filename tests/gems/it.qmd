@@ -1,0 +1,76 @@
+---
+pagetitle: "GEMS · Italiano"
+lang: it
+---
+
+::: {.page-head}
+[[Home](../../index.qmd) / [GEMS](index.qmd) / Italiano]{.crumb}
+
+# GEMS <img class="flag" src="../../images/flags/it.svg" alt="Italiano" style="vertical-align:middle;margin-left:.4rem">
+
+[Global Examination of Mental State · versione italiana]{.sub}
+:::
+
+## Caratteristiche principali
+
+::: {.facts}
+::: {.fact}
+[Campione normativo]{.fact-label}
+[635]{.fact-value}
+[adulti sani italiani (396 donne)]{.fact-note}
+:::
+::: {.fact}
+[Età]{.fact-label}
+[18–100]{.fact-value}
+[anni]{.fact-note}
+:::
+::: {.fact}
+[Somministrazione]{.fact-label}
+[~10 min]{.fact-value}
+[in presenza, carta e matita]{.fact-note}
+:::
+::: {.fact}
+[Punteggio]{.fact-label}
+[0–100]{.fact-value}
+[11 prove con lo stesso peso]{.fact-note}
+:::
+:::
+
+### Proprietà psicometriche
+
+| Proprietà | Risultato |
+|---|---|
+| Coerenza interna | α di Cronbach = 0,81 |
+| Attendibilità test-retest (GEMS-A, n = 52) | r = 0,845 |
+| Forme parallele (GEMS-A vs GEMS-B, n = 59) | r = 0,774, nessun effetto pratica |
+| Validità convergente (n = 60) | MoCA r = 0,723; ENB-2 r = 0,811 |
+| Validità discriminante (49 pazienti con malattia di Parkinson) | AUC = 0,786 (IC 95% 0,716–0,856) |
+| Norme | Cut-off basati su regressione per età, sesso, scolarità e Indice di Riserva Cognitiva |
+| Follow-up | Soglie di cambiamento significativo nel tempo |
+: {.props}
+
+**Prove:** orientamento, memoria immediata, mesi all'indietro, puzzle, orologio, memoria differita, denominazione, comprensione, attenzione, fluenza verbale, comprensione di metafore.
+
+::: {.downloads}
+## <i class="bi bi-download"></i> Scarica i materiali
+
+[Uso libero con licenza Creative Commons. I file sono scaricati dal repository OSF.]{.hint}
+
+::: {.btn-row}
+[<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://osf.io/download/k75ez/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo GEMS-A](https://osf.io/download/n3msb/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Protocollo GEMS-B](https://osf.io/download/gkb3t/){.btn-dl}
+:::
+
+::: {.btn-row}
+[<i class="bi bi-file-earmark-spreadsheet"></i> Calcolo del punteggio (Excel)](https://osf.io/download/wv3us/){.btn-ghost}
+[<i class="bi bi-code-slash"></i> Codice R e Shiny app per i cut-off](https://osf.io/download/63tz9/){.btn-ghost}
+[<i class="bi bi-box-arrow-up-right"></i> Repository OSF](https://osf.io/4t5a8/){.btn-ghost}
+:::
+:::
+
+## Come citare
+
+::: {.cite}
+Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. *Brain and Behavior, 12*(8), e2710. <https://doi.org/10.1002/brb3.2710>
+:::

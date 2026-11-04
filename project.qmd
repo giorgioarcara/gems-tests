@@ -1,0 +1,30 @@
+---
+title: "The project"
+---
+
+::: {.prose}
+GEMS is an open-science project for brief cognitive assessment.
+It started with the paper-and-pencil GEMS (2022) and grew into a family of tools for in-person, telephone and web-based screening.
+The work is a collaboration between the University of Padua and IRCCS San Camillo Hospital in Venice, within the [NICLA group](https://nicla-group.github.io/).
+
+## Open by design
+
+All materials are on the Open Science Framework (OSF) under a Creative Commons licence: record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs.
+
+- GEMS: [osf.io/4t5a8](https://osf.io/4t5a8/)
+- Tele-GEMS: [osf.io/t3bma](https://osf.io/t3bma/)
+- Auto-GEMS: [osf.io/fq8g7](https://osf.io/fq8g7/)
+
+## Translations and adaptations
+
+Open materials make it easy to translate GEMS and collect normative data in other countries.
+Each test on this site has one page per language, marked by a flag. New languages are added as translations become available.
+
+If you would like to translate, adapt or norm GEMS in your language, [contact us](contact.qmd). We are happy to support cross-cultural validation projects.
+
+## Publications
+
+1. Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. *Brain and Behavior, 12*(8), e2710. <https://doi.org/10.1002/brb3.2710>
+2. Montemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. *Neurological Sciences, 44*, 3499–3508. <https://doi.org/10.1007/s10072-023-06862-1>
+3. Pucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. *Aging Clinical and Experimental Research, 36*, 216. <https://doi.org/10.1007/s40520-024-02862-z>
+:::

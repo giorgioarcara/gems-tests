@@ -1,0 +1,45 @@
+---
+pagetitle: "GEMS · Global Examination of Mental State"
+---
+
+::: {.page-head}
+[[Home](../../index.qmd) / Tests]{.crumb}
+
+# GEMS
+
+[Global Examination of Mental State]{.sub}
+:::
+
+::: {.chips}
+[<i class="bi bi-clipboard2-pulse"></i> In person, paper and pencil]{.chip}
+[<i class="bi bi-clock"></i> About 10 minutes]{.chip}
+[<i class="bi bi-list-check"></i> 11 tasks]{.chip}
+[<i class="bi bi-files"></i> Parallel forms A and B]{.chip}
+[<i class="bi bi-people"></i> 635 adults, 18–100 years]{.chip}
+:::
+
+::: {.prose}
+GEMS is a brief paper-and-pencil screening for global cognition. It is not tied to a specific diagnosis and can be used for impairments of any origin.
+Its 11 tasks cover **orientation, memory, working memory, visuo-spatial, visuo-constructional and planning abilities, perceptual and visual attention, language** (naming, comprehension and verbal fluency) and **pragmatics**.
+The total score ranges from 0 to 100. Every task contributes with equal weight, and there is no ceiling effect in healthy adults.
+
+Cut-offs are computed for age, sex, education and the **Cognitive Reserve Index**, which makes the comparison with peers more precise.
+The parallel forms (GEMS-A and GEMS-B) and the thresholds for significant change support follow-up assessments.
+:::
+
+## Choose a language
+
+Each language page lists the main characteristics of the test and the materials to download.
+
+```{=html}
+<div class="lang-grid">
+<a class="lang-card" href="it.html"><img class="flag" src="../../images/flags/it.svg" alt=""><div><strong>Italiano</strong><span>Original version, Italian norms</span></div></a>
+<a class="lang-card" href="en.html"><img class="flag" src="../../images/flags/gb.svg" alt=""><div><strong>English</strong><span>Translated materials</span></div></a>
+</div>
+```
+
+## Reference
+
+::: {.cite}
+Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. *Brain and Behavior, 12*(8), e2710. <https://doi.org/10.1002/brb3.2710>
+:::

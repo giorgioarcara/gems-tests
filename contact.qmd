@@ -1,0 +1,28 @@
+---
+title: "Contact us"
+---
+
+::: {.prose}
+For questions about the tests, the materials or the norms, or to propose a translation or adaptation, write to us.
+:::
+
+::: {.contact-cards}
+::: {.contact-card}
+### Giorgio Arcara
+
+[<i class="bi bi-envelope"></i> [giorgio.arcara@unipd.it](mailto:giorgio.arcara@unipd.it)]{}
+:::
+
+::: {.contact-card}
+### Sonia Montemurro
+
+[<i class="bi bi-envelope"></i> [sonia.montemurro@unipd.it](mailto:sonia.montemurro@unipd.it)]{}
+:::
+:::
+
+::: {.prose}
+## Contributing a translation
+
+We welcome translations and cross-cultural validations. Please tell us which test and language you are interested in, and briefly describe your project.
+New versions will be published on this site with their own flag and download page.
+:::

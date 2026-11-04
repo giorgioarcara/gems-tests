@@ -1,0 +1,33 @@
+---
+title: "About GEMS"
+---
+
+::: {.prose}
+The **Global Examination of Mental State (GEMS)** is a family of brief cognitive screening tools.
+They give a quick, reliable picture of a person's global cognitive functioning when a full neuropsychological assessment is not needed or not possible.
+
+## Why another screening?
+
+Many screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not freely available.
+GEMS was designed to address these issues:
+
+- **Broad coverage.** Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.
+- **No ceiling effect** in healthy adults, so differences between individuals remain visible.
+- **Cognitive reserve.** Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.
+- **Repeated testing.** Parallel forms and significant-change thresholds support longitudinal monitoring.
+- **Open materials.** Record forms, instructions, scoring sheets and code are free under a Creative Commons licence.
+
+## Three administration modes
+
+| Test | Mode | Tasks | Normative sample |
+|---|---|---|---|
+| [GEMS](tests/gems/index.qmd) | In person, paper and pencil | 11 | 635 adults, 18–100 years |
+| [Tele-GEMS](tests/tele-gems/index.qmd) | Remote, by telephone | 10 | 601 adults |
+| [Auto-GEMS](tests/auto-gems/index.qmd) | Self-administered, web-based | 11 | 1,308 adults, 18–93 years |
+
+The three versions share the same structure, so results can be compared across settings. For example, a patient first seen in person can be followed up remotely.
+
+## Intended use
+
+GEMS tools are screenings. They do not replace a comprehensive neuropsychological assessment and should be interpreted by qualified professionals.
+:::

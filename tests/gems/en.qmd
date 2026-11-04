@@ -1,0 +1,79 @@
+---
+pagetitle: "GEMS · English"
+---
+
+::: {.page-head}
+[[Home](../../index.qmd) / [GEMS](index.qmd) / English]{.crumb}
+
+# GEMS <img class="flag" src="../../images/flags/gb.svg" alt="English" style="vertical-align:middle;margin-left:.4rem">
+
+[Global Examination of Mental State · English materials]{.sub}
+:::
+
+::: {.callout-note appearance="simple"}
+The English record forms and instructions are translations of the original Italian test, provided for use and cross-cultural adaptation. The normative data and cut-offs come from the Italian sample.
+:::
+
+## Main characteristics
+
+::: {.facts}
+::: {.fact}
+[Normative sample]{.fact-label}
+[635]{.fact-value}
+[healthy Italian adults (396 women)]{.fact-note}
+:::
+::: {.fact}
+[Age range]{.fact-label}
+[18–100]{.fact-value}
+[years]{.fact-note}
+:::
+::: {.fact}
+[Administration]{.fact-label}
+[~10 min]{.fact-value}
+[in person, paper and pencil]{.fact-note}
+:::
+::: {.fact}
+[Score]{.fact-label}
+[0–100]{.fact-value}
+[11 equally weighted tasks]{.fact-note}
+:::
+:::
+
+### Psychometric properties
+
+| Property | Result |
+|---|---|
+| Internal consistency | Cronbach's α = 0.81 |
+| Test-retest reliability (GEMS-A, n = 52) | r = 0.845 |
+| Parallel forms (GEMS-A vs GEMS-B, n = 59) | r = 0.774, no practice effect |
+| Convergent validity (n = 60) | MoCA r = 0.723; ENB-2 r = 0.811 |
+| Discriminant validity (49 patients with Parkinson's disease) | AUC = 0.786 (95% CI 0.716–0.856) |
+| Norms | Regression-based cut-offs for age, sex, education and Cognitive Reserve Index |
+| Follow-up | Thresholds for significant change over time |
+: {.props}
+
+**Tasks:** orientation, immediate memory, backward months, puzzle, clock, delayed memory, naming, comprehension, attention, verbal fluency, metaphor comprehension.
+
+::: {.downloads}
+## <i class="bi bi-download"></i> Download the materials
+
+[Free to use under a Creative Commons licence. Files are served from the OSF repository.]{.hint}
+
+::: {.btn-row}
+[<i class="bi bi-file-earmark-text"></i> Instructions (PDF)](https://osf.io/download/d67my/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Record form GEMS-A](https://osf.io/download/tvkmn/){.btn-dl}
+[<i class="bi bi-file-earmark-pdf"></i> Record form GEMS-B](https://osf.io/download/razbv/){.btn-dl}
+:::
+
+::: {.btn-row}
+[<i class="bi bi-file-earmark-spreadsheet"></i> Scoring sheet (Excel)](https://osf.io/download/wv3us/){.btn-ghost}
+[<i class="bi bi-code-slash"></i> R code and Shiny app for cut-offs](https://osf.io/download/63tz9/){.btn-ghost}
+[<i class="bi bi-box-arrow-up-right"></i> OSF repository](https://osf.io/4t5a8/){.btn-ghost}
+:::
+:::
+
+## How to cite
+
+::: {.cite}
+Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. *Brain and Behavior, 12*(8), e2710. <https://doi.org/10.1002/brb3.2710>
+:::
