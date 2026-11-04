@@ -58,7 +58,7 @@ The English protocols and instructions are translations of the original Italian 
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Download the materials
 
-[Free to use under a Creative Commons licence. Files are served from the OSF repository.]{.hint}
+[[Open]{.open-badge .inline} Open materials released under a **Creative Commons 3.0** licence. Files are served from the OSF repository. [Licence details](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
 [<i class="bi bi-file-earmark-text"></i> Instructions (PDF)](https://osf.io/download/2qr7j/){.btn-dl}

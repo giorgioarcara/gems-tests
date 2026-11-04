@@ -8,14 +8,14 @@ They give a quick, reliable picture of a person's global cognitive functioning w
 
 ## Why another screening?
 
-Many screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not freely available.
+Many screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not openly available.
 GEMS was designed to address these issues:
 
 - **Broad coverage.** Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.
 - **No ceiling effect** in healthy adults, so differences between individuals remain visible.
 - **Cognitive reserve.** Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.
 - **Repeated testing.** Parallel forms and significant-change thresholds support longitudinal monitoring.
-- **Open materials.** Record forms, instructions, scoring sheets and code are free under a Creative Commons licence.
+- **Open.** Record forms, instructions, normative data, scoring sheets and code are shared openly under Creative Commons licences ([details](open.qmd)).
 
 ## Three administration modes
 

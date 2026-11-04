@@ -3,13 +3,13 @@ title: "The project"
 ---
 
 ::: {.prose}
-GEMS is an open-science project for brief cognitive assessment.
+GEMS is an **Open Science** project for brief cognitive assessment.
 It started with the paper-and-pencil GEMS (2022) and grew into a family of tools for in-person, telephone and web-based screening.
 The work is a collaboration between the University of Padua and IRCCS San Camillo Hospital in Venice, within the [NICLA group](https://nicla-group.github.io/).
 
 ## Open by design
 
-All materials are on the Open Science Framework (OSF) under a Creative Commons licence: record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs.
+All materials are on the Open Science Framework (OSF) under Creative Commons licences. They include record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs. See [Open & licences](open.qmd) for the licence of each test.
 
 - GEMS: [osf.io/4t5a8](https://osf.io/4t5a8/)
 - Tele-GEMS: [osf.io/t3bma](https://osf.io/t3bma/)

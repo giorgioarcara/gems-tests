@@ -6,7 +6,7 @@ project:
 
 website:
   title: "GEMS"
-  description: "GEMS, Tele-GEMS and Auto-GEMS: open-access tools for the brief screening of cognition."
+  description: "GEMS, Tele-GEMS and Auto-GEMS: Open tools for the brief screening of cognition."
   site-url: https://giorgioarcara.github.io/gems-tests/
   repo-url: https://github.com/giorgioarcara/gems-tests
   favicon: images/logo.svg
@@ -31,7 +31,7 @@ website:
       - text: "Contact"
         href: contact.qmd
   page-footer:
-    left: "© 2026 The GEMS project · Materials released under a Creative Commons licence"
+    left: "© 2026 The GEMS project · Open materials under Creative Commons licences · [Open & licences](/open.qmd)"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:

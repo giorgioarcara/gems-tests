@@ -1,0 +1,67 @@
+---
+title: "Open & licences"
+---
+
+::: {.open-hero}
+![](images/logo.svg){.open-hero-gem fig-alt="GEMS hexagonal gem logo"}
+
+::: {.prose}
+GEMS is an **Open** project. Every tool in the family is shared on the Open Science Framework (OSF): record forms, instructions, normative data and cut-offs, scoring sheets, analysis code and apps.
+You can use, translate and adapt them in clinical and research settings, as long as you credit the original work.
+:::
+:::
+
+## Licences at a glance
+
+| | Test materials | Code and apps | Scientific article |
+|---|---|---|---|
+| **[GEMS](tests/gems/index.qmd)** | Creative Commons licence, as stated on the record forms and instructions | R analysis code and Shiny app for cut-offs, on [OSF](https://osf.io/4t5a8/) | Open access, Creative Commons Attribution (CC BY), *Brain and Behavior* (2022) |
+| **[Tele-GEMS](tests/tele-gems/index.qmd)** | Creative Commons 3.0, as stated in the [OSF project](https://osf.io/t3bma/) | R analysis code and Shiny app for cut-offs, on OSF | Published in *Neurological Sciences* (2023); not open access |
+| **[Auto-GEMS](tests/auto-gems/index.qmd)** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), the licence of the [OSF project](https://osf.io/fq8g7/) | Source code (JATOS study archives) and Shiny app, CC BY 4.0. It runs on [JATOS](https://www.jatos.org/), which is Apache 2.0 | Open access, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), *Aging Clinical and Experimental Research* (2024) |
+: {.props .licence-table}
+
+## What you can do
+
+::: {.can-grid}
+::: {.can}
+<i class="bi bi-check2-circle"></i>
+
+**Use**
+
+Administer the tests in clinical practice and research at no cost.
+:::
+
+::: {.can}
+<i class="bi bi-translate"></i>
+
+**Translate and adapt**
+
+Translate the materials, adapt them to other cultures, and collect new normative data.
+:::
+
+::: {.can}
+<i class="bi bi-share"></i>
+
+**Share**
+
+Redistribute the materials, keeping the authorship and licence notice.
+:::
+
+::: {.can}
+<i class="bi bi-quote"></i>
+
+**Credit**
+
+Always cite the original article of the test you use. The references are on each test page.
+:::
+:::
+
+::: {.prose}
+## Good practice
+
+- Download the materials from the official OSF projects, so you always have the latest version of the forms and instructions.
+- If you translate or adapt a test, [let us know](contact.qmd). We are glad to list new language versions on this site, each with its own flag.
+- The Cognitive Reserve Index questionnaire (CRIq), used to compute the cut-offs, is a separate instrument. It is available at [cognitivereserveindex.org](https://www.cognitivereserveindex.org/NewEdition/) under its own terms.
+
+The licence terms in the OSF projects and on the materials themselves take precedence over this summary.
+:::

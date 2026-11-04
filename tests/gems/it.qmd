@@ -54,7 +54,7 @@ lang: it
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Scarica i materiali
 
-[Uso libero con licenza Creative Commons. I file sono scaricati dal repository OSF.]{.hint}
+[[Open]{.open-badge .inline} Materiali Open rilasciati con **licenza Creative Commons**. I file sono scaricati dal repository OSF. [Dettagli sulle licenze](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
 [<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://osf.io/download/k75ez/){.btn-dl}
@@ -63,6 +63,7 @@ lang: it
 :::
 
 ::: {.btn-row}
+[<i class="bi bi-calculator"></i> Calcolo online dei cut-off](https://giorgioarcara.shinyapps.io/GEMS_app/){.btn-ghost}
 [<i class="bi bi-file-earmark-spreadsheet"></i> Calcolo del punteggio (Excel)](https://osf.io/download/wv3us/){.btn-ghost}
 [<i class="bi bi-code-slash"></i> Codice R e Shiny app per i cut-off](https://osf.io/download/63tz9/){.btn-ghost}
 [<i class="bi bi-box-arrow-up-right"></i> Repository OSF](https://osf.io/4t5a8/){.btn-ghost}

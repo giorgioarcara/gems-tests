@@ -55,7 +55,7 @@ lang: it
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Usa e scarica Auto-GEMS
 
-[Uso libero con licenza Creative Commons. Il codice sorgente è sul repository OSF.]{.hint}
+[[Open]{.open-badge .inline} Materiali e codice Open rilasciati con licenza **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)**. Il codice sorgente è sul repository OSF. [Dettagli sulle licenze](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
 [<i class="bi bi-play-circle"></i> Prova la versione pronta all'uso](https://unipd.link/auto-GEMS){.btn-dl}
