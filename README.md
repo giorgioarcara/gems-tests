@@ -28,6 +28,8 @@ quarto render    # build into _site/
 
 ## Materials (downloads)
 
+All materials and code are licensed under **CC BY-NC 4.0** (Attribution – NonCommercial); see [LICENSE.md](LICENSE.md).
+
 Downloadable files (record forms, instructions, scoring sheets, R code, Shiny apps, JATOS archives) are **not committed**. They are GitHub Release assets of the release [`materials-v1`](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) and are linked from the language pages as:
 
 ```

@@ -54,7 +54,7 @@ lang: it
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Scarica i materiali
 
-[[Open]{.open-badge .inline} Materiali Open rilasciati con **licenza Creative Commons**. I file sono ospitati sul repository GitHub del progetto. [Dettagli sulle licenze](../../open.qmd)]{.hint}
+[[Open]{.open-badge .inline} Materiali Open rilasciati con licenza **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it)** (Attribuzione – Non commerciale). I file sono ospitati sul repository GitHub del progetto. [Dettagli sulle licenze](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
 [<i class="bi bi-file-earmark-text"></i> Istruzioni (PDF)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-it-istruzioni-v1.1.pdf){.btn-dl}

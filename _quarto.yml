@@ -31,7 +31,7 @@ website:
       - text: "Contact"
         href: contact.qmd
   page-footer:
-    left: "© 2026 The GEMS project · Open materials under Creative Commons licences · [Open & licences](/open.qmd)"
+    left: "© 2026 The GEMS project · Open materials under CC BY-NC 4.0 · [Open & licences](/open.qmd)"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:

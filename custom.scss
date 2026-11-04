@@ -308,6 +308,8 @@ table.props {
     background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.18);
     padding: .3rem .8rem; border-radius: 999px;
     strong { color: #7fe0d1; }
+    a { color: #fff; text-decoration: underline; text-decoration-color: rgba(255,255,255,.45); text-underline-offset: 2px; }
+    a:hover { color: #7fe0d1; }
   }
   .open-link { color: #fff; font-weight: 600; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.4); }
   .open-link:hover { border-color: #7fe0d1; color: #7fe0d1; }
@@ -320,7 +322,7 @@ table.props {
   img.open-hero-gem { width: 104px; height: 104px; filter: drop-shadow(0 12px 20px rgba(22,50,92,.2)); }
 }
 table.licence-table {
-  td:first-child { white-space: nowrap; }
+  td:first-child, td:nth-child(2) { white-space: nowrap; }
   td, th { vertical-align: top; }
 }
 .can-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(165px, 1fr)); gap: 1rem; margin: 1rem 0 2rem; }
@@ -329,6 +331,12 @@ table.licence-table {
   p { margin: 0 0 .3rem; font-size: .92rem; color: $muted; }
   strong { color: $navy; font-size: 1rem; }
   .bi { font-size: 1.3rem; color: $tele; }
+  &.nc {
+    grid-column: 1 / -1;
+    background: color-mix(in srgb, #{$auto} 7%, white);
+    border-left: 4px solid $auto;
+    .bi { color: $auto; }
+  }
 }
 
 @media (max-width: 768px) {

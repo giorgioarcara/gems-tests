@@ -104,14 +104,14 @@ A self-administered web version that runs in any browser, online or offline, and
 
 ### Open materials, Open norms, Open code
 
-Every GEMS tool is shared openly on the Open Science Framework, under Creative Commons licences.
+Every GEMS tool is shared openly on this site, under the Creative Commons Attribution – NonCommercial 4.0 licence.
 This covers record forms, instructions, normative data, scoring sheets, analysis code and apps.
-You can use, translate and adapt them, as long as you credit the original work.
+You can use, translate and adapt them for non-commercial purposes, as long as you credit the original work.
 
 ::: {.licence-chips}
-[**GEMS** · Creative Commons]{.licence-chip}
-[**Tele-GEMS** · CC 3.0]{.licence-chip}
-[**Auto-GEMS** · CC BY 4.0]{.licence-chip}
+[**All materials and code** · [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)]{.licence-chip}
+[<i class="bi bi-person-check"></i> Attribution]{.licence-chip}
+[<i class="bi bi-slash-circle"></i> Non-commercial]{.licence-chip}
 :::
 
 [Licences in detail →](open.qmd){.open-link}
@@ -124,7 +124,7 @@ You can use, translate and adapt them, as long as you credit the original work.
 
 ### Open
 
-Record forms, instructions, scoring sheets and code are shared openly on this site under Creative Commons licences.
+Record forms, instructions, scoring sheets and code are shared openly on this site under the CC BY-NC 4.0 licence.
 :::
 
 ::: {.strip-item}

@@ -57,7 +57,7 @@ The English record forms and instructions are translations of the original Itali
 ::: {.downloads}
 ## <i class="bi bi-download"></i> Download the materials
 
-[[Open]{.open-badge .inline} Open materials released under a **Creative Commons licence**. Files are hosted on the project's GitHub repository. [Licence details](../../open.qmd)]{.hint}
+[[Open]{.open-badge .inline} Open materials released under a **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)** licence (Attribution – NonCommercial). Files are hosted on the project's GitHub repository. [Licence details](../../open.qmd)]{.hint}
 
 ::: {.btn-row}
 [<i class="bi bi-file-earmark-text"></i> Instructions (PDF)](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/gems-en-instructions.pdf){.btn-dl}

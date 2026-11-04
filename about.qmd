@@ -15,7 +15,7 @@ GEMS was designed to address these issues:
 - **No ceiling effect** in healthy adults, so differences between individuals remain visible.
 - **Cognitive reserve.** Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.
 - **Repeated testing.** Parallel forms and significant-change thresholds support longitudinal monitoring.
-- **Open.** Record forms, instructions, normative data, scoring sheets and code are shared openly under Creative Commons licences ([details](open.qmd)).
+- **Open.** Record forms, instructions, normative data, scoring sheets and code are shared openly under the CC BY-NC 4.0 licence ([details](open.qmd)).
 
 ## Three administration modes
 

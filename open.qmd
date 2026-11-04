@@ -7,17 +7,21 @@ title: "Open & licences"
 
 ::: {.prose}
 GEMS is an **Open** project. Every tool in the family is shared openly on this site: record forms, instructions, normative data and cut-offs, scoring sheets, analysis code and apps.
-You can use, translate and adapt them in clinical and research settings, as long as you credit the original work.
+All of them are released under the **[Creative Commons Attribution – NonCommercial 4.0 International licence (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.
+You can use, translate and adapt them in clinical and research settings, as long as you credit the original work and do not use them commercially.
 :::
 :::
 
 ## Licences at a glance
 
+The article column shows the publisher's licence for each paper. That licence is separate from the licence of the test materials.
+
+
 | | Test materials | Code and apps | Scientific article |
 |---|---|---|---|
-| **[GEMS](tests/gems/index.qmd)** | Creative Commons licence, as stated on the record forms and instructions | R analysis code and Shiny app for cut-offs, [download](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) | Open access, Creative Commons Attribution (CC BY), *Brain and Behavior* (2022) |
-| **[Tele-GEMS](tests/tele-gems/index.qmd)** | Creative Commons 3.0, as stated in the original project | R analysis code and Shiny app for cut-offs, [download](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) | Published in *Neurological Sciences* (2023); not open access |
-| **[Auto-GEMS](tests/auto-gems/index.qmd)** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), the licence of the original project | Source code (JATOS study archives) and Shiny app, CC BY 4.0. It runs on [JATOS](https://www.jatos.org/), which is Apache 2.0 | Open access, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), *Aging Clinical and Experimental Research* (2024) |
+| **[GEMS](tests/gems/index.qmd)** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | R analysis code and Shiny app for cut-offs, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), [download](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) | Open access, Creative Commons Attribution (CC BY), *Brain and Behavior* (2022) |
+| **[Tele-GEMS](tests/tele-gems/index.qmd)** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | R analysis code and Shiny app for cut-offs, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), [download](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) | Published in *Neurological Sciences* (2023); not open access |
+| **[Auto-GEMS](tests/auto-gems/index.qmd)** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | Source code (JATOS study archives) and Shiny app, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). It runs on [JATOS](https://www.jatos.org/), which is Apache 2.0 | Open access, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), *Aging Clinical and Experimental Research* (2024) |
 : {.props .licence-table}
 
 ## What you can do
@@ -28,7 +32,7 @@ You can use, translate and adapt them in clinical and research settings, as long
 
 **Use**
 
-Administer the tests in clinical practice and research at no cost.
+Administer the tests at no cost, for non-commercial clinical practice and research.
 :::
 
 ::: {.can}
@@ -44,7 +48,7 @@ Translate the materials, adapt them to other cultures, and collect new normative
 
 **Share**
 
-Redistribute the materials, keeping the authorship and licence notice.
+Redistribute the materials non-commercially, keeping the authorship and the CC BY-NC 4.0 licence notice.
 :::
 
 ::: {.can}
@@ -53,6 +57,14 @@ Redistribute the materials, keeping the authorship and licence notice.
 **Credit**
 
 Always cite the original article of the test you use. The references are on each test page.
+:::
+
+::: {.can .nc}
+<i class="bi bi-slash-circle"></i>
+
+**Non-commercial**
+
+Selling the materials, or using them in paid products or services, requires written permission. [Contact us](contact.qmd).
 :::
 :::
 
