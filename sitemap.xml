@@ -2,54 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/auto-gems/index.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/tele-gems/index.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/tele-gems/en.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/gems/it.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/index.html</loc>
-    <lastmod>2026-11-04T20:14:24.512Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.066Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/contact.html</loc>
-    <lastmod>2026-11-04T20:14:24.511Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.065Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/group.html</loc>
-    <lastmod>2026-11-04T20:14:24.511Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.065Z</lastmod>
+  </url>
+  <url>
+    <loc>https://giorgioarcara.github.io/gems-tests/open.html</loc>
+    <lastmod>2026-11-04T20:31:41.066Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/about.html</loc>
-    <lastmod>2026-11-04T20:14:24.511Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.065Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/project.html</loc>
-    <lastmod>2026-11-04T20:14:24.512Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.066Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/gems/en.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/gems/index.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/tele-gems/it.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://giorgioarcara.github.io/gems-tests/tests/auto-gems/it.html</loc>
-    <lastmod>2026-11-04T20:14:24.513Z</lastmod>
+    <lastmod>2026-11-04T20:31:41.067Z</lastmod>
   </url>
 </urlset>
