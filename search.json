@@ -1,96 +1,5 @@
 [
   {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "The project",
-    "section": "",
-    "text": "GEMS is an open-science project for brief cognitive assessment. It started with the paper-and-pencil GEMS (2022) and grew into a family of tools for in-person, telephone and web-based screening. The work is a collaboration between the University of Padua and IRCCS San Camillo Hospital in Venice, within the NICLA group.\n\n\nAll materials are on the Open Science Framework (OSF) under a Creative Commons licence: record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs.\n\nGEMS: osf.io/4t5a8\nTele-GEMS: osf.io/t3bma\nAuto-GEMS: osf.io/fq8g7\n\n\n\n\nOpen materials make it easy to translate GEMS and collect normative data in other countries. Each test on this site has one page per language, marked by a flag. New languages are added as translations become available.\nIf you would like to translate, adapt or norm GEMS in your language, contact us. We are happy to support cross-cultural validation projects.\n\n\n\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nPucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z"
-  },
-  {
-    "objectID": "project.html#open-by-design",
-    "href": "project.html#open-by-design",
-    "title": "The project",
-    "section": "",
-    "text": "All materials are on the Open Science Framework (OSF) under a Creative Commons licence: record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs.\n\nGEMS: osf.io/4t5a8\nTele-GEMS: osf.io/t3bma\nAuto-GEMS: osf.io/fq8g7"
-  },
-  {
-    "objectID": "project.html#translations-and-adaptations",
-    "href": "project.html#translations-and-adaptations",
-    "title": "The project",
-    "section": "",
-    "text": "Open materials make it easy to translate GEMS and collect normative data in other countries. Each test on this site has one page per language, marked by a flag. New languages are added as translations become available.\nIf you would like to translate, adapt or norm GEMS in your language, contact us. We are happy to support cross-cultural validation projects."
-  },
-  {
-    "objectID": "project.html#publications",
-    "href": "project.html#publications",
-    "title": "The project",
-    "section": "",
-    "text": "Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nPucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Global Examination of Mental State",
-    "section": "",
-    "text": "Open-access cognitive screening\n\nGlobal Examination of Mental State\n\nThree free, validated tools for the brief assessment of cognition: in person, by telephone, or self-administered on the web. Each comes with normative data, cut-offs that account for cognitive reserve, and all materials needed to use it.\n\n\n\n\n\n\n\nIn person · paper and pencil\n\nGEMS\n\n\nA paper-and-pencil screening of global cognition with 11 tasks covering orientation, memory, attention, visuo-spatial skills, language and pragmatics. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\n\nRemote · telephone\n\nTele-GEMS\n\n\nThe telephone version of GEMS for remote screening, with 10 tasks that mirror the in-person test. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\n\nSelf-administered · web\n\nAuto-GEMS\n\n\nA self-administered web version that runs in any browser, online or offline, and compares the result with the normative data automatically. It takes about 10 minutes.\n\n\n\n\n\nLearn more →\n\n\n\n\n\n\n\nFree and open\nRecord forms, instructions, scoring sheets and code are released under a Creative Commons licence on OSF.\n\n\n\n\n\nLarge normative samples\nThe norms are based on 600 to 1,300 healthy adults per test, covering the adult lifespan.\n\n\n\n\n\nCognitive reserve\nThe cut-offs account for age, sex, education and the Cognitive Reserve Index (CRIq).\n\n\n\n\n\nBuilt for follow-up\nParallel forms A and B and significant-change thresholds support repeated assessments."
-  },
-  {
-    "objectID": "tests/gems/it.html",
-    "href": "tests/gems/it.html",
-    "title": "GEMS ",
-    "section": "",
-    "text": "Home / GEMS / Italiano\n\n\nGlobal Examination of Mental State · versione italiana"
-  },
-  {
-    "objectID": "tests/gems/it.html#caratteristiche-principali",
-    "href": "tests/gems/it.html#caratteristiche-principali",
-    "title": "GEMS ",
-    "section": "Caratteristiche principali",
-    "text": "Caratteristiche principali\n\n\nCampione normativo 635 adulti sani italiani (396 donne)\n\n\nEtà 18–100 anni\n\n\nSomministrazione ~10 min in presenza, carta e matita\n\n\nPunteggio 0–100 11 prove con lo stesso peso\n\n\n\nProprietà psicometriche\n\n\n\n\n\n\n\nProprietà\nRisultato\n\n\n\n\nCoerenza interna\nα di Cronbach = 0,81\n\n\nAttendibilità test-retest (GEMS-A, n = 52)\nr = 0,845\n\n\nForme parallele (GEMS-A vs GEMS-B, n = 59)\nr = 0,774, nessun effetto pratica\n\n\nValidità convergente (n = 60)\nMoCA r = 0,723; ENB-2 r = 0,811\n\n\nValidità discriminante (49 pazienti con malattia di Parkinson)\nAUC = 0,786 (IC 95% 0,716–0,856)\n\n\nNorme\nCut-off basati su regressione per età, sesso, scolarità e Indice di Riserva Cognitiva\n\n\nFollow-up\nSoglie di cambiamento significativo nel tempo\n\n\n\nProve: orientamento, memoria immediata, mesi all’indietro, puzzle, orologio, memoria differita, denominazione, comprensione, attenzione, fluenza verbale, comprensione di metafore."
-  },
-  {
-    "objectID": "tests/gems/it.html#scarica-i-materiali",
-    "href": "tests/gems/it.html#scarica-i-materiali",
-    "title": "GEMS ",
-    "section": " Scarica i materiali",
-    "text": "Scarica i materiali\nUso libero con licenza Creative Commons. I file sono scaricati dal repository OSF.\n\n Istruzioni (PDF)  Protocollo GEMS-A  Protocollo GEMS-B\n\n\n Calcolo del punteggio (Excel)  Codice R e Shiny app per i cut-off  Repository OSF"
-  },
-  {
-    "objectID": "tests/gems/it.html#come-citare",
-    "href": "tests/gems/it.html#come-citare",
-    "title": "GEMS ",
-    "section": "Come citare",
-    "text": "Come citare\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710"
-  },
-  {
-    "objectID": "tests/gems/en.html",
-    "href": "tests/gems/en.html",
-    "title": "GEMS ",
-    "section": "",
-    "text": "Home / GEMS / English\n\n\nGlobal Examination of Mental State · English materials"
-  },
-  {
-    "objectID": "tests/gems/en.html#main-characteristics",
-    "href": "tests/gems/en.html#main-characteristics",
-    "title": "GEMS ",
-    "section": "Main characteristics",
-    "text": "Main characteristics\n\n\nNormative sample 635 healthy Italian adults (396 women)\n\n\nAge range 18–100 years\n\n\nAdministration ~10 min in person, paper and pencil\n\n\nScore 0–100 11 equally weighted tasks\n\n\n\nPsychometric properties\n\n\n\n\n\n\n\nProperty\nResult\n\n\n\n\nInternal consistency\nCronbach’s α = 0.81\n\n\nTest-retest reliability (GEMS-A, n = 52)\nr = 0.845\n\n\nParallel forms (GEMS-A vs GEMS-B, n = 59)\nr = 0.774, no practice effect\n\n\nConvergent validity (n = 60)\nMoCA r = 0.723; ENB-2 r = 0.811\n\n\nDiscriminant validity (49 patients with Parkinson’s disease)\nAUC = 0.786 (95% CI 0.716–0.856)\n\n\nNorms\nRegression-based cut-offs for age, sex, education and Cognitive Reserve Index\n\n\nFollow-up\nThresholds for significant change over time\n\n\n\nTasks: orientation, immediate memory, backward months, puzzle, clock, delayed memory, naming, comprehension, attention, verbal fluency, metaphor comprehension."
-  },
-  {
-    "objectID": "tests/gems/en.html#download-the-materials",
-    "href": "tests/gems/en.html#download-the-materials",
-    "title": "GEMS ",
-    "section": " Download the materials",
-    "text": "Download the materials\nFree to use under a Creative Commons licence. Files are served from the OSF repository.\n\n Instructions (PDF)  Record form GEMS-A  Record form GEMS-B\n\n\n Scoring sheet (Excel)  R code and Shiny app for cut-offs  OSF repository"
-  },
-  {
-    "objectID": "tests/gems/en.html#how-to-cite",
-    "href": "tests/gems/en.html#how-to-cite",
-    "title": "GEMS ",
-    "section": "How to cite",
-    "text": "How to cite\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710"
-  },
-  {
     "objectID": "tests/auto-gems/index.html",
     "href": "tests/auto-gems/index.html",
     "title": "Auto-GEMS",
@@ -133,20 +42,6 @@
     "text": "Reference\n\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "For questions about the tests, the materials or the norms, or to propose a translation or adaptation, write to us."
-  },
-  {
-    "objectID": "contact.html#contributing-a-translation",
-    "href": "contact.html#contributing-a-translation",
-    "title": "Contact us",
-    "section": "Contributing a translation",
-    "text": "Contributing a translation\nWe welcome translations and cross-cultural validations. Please tell us which test and language you are interested in, and briefly describe your project. New versions will be published on this site with their own flag and download page."
-  },
-  {
     "objectID": "tests/tele-gems/en.html",
     "href": "tests/tele-gems/en.html",
     "title": "Tele-GEMS ",
@@ -173,6 +68,167 @@
     "title": "Tele-GEMS ",
     "section": "How to cite",
     "text": "How to cite\n\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1"
+  },
+  {
+    "objectID": "tests/gems/it.html",
+    "href": "tests/gems/it.html",
+    "title": "GEMS ",
+    "section": "",
+    "text": "Home / GEMS / Italiano\n\n\nGlobal Examination of Mental State · versione italiana"
+  },
+  {
+    "objectID": "tests/gems/it.html#caratteristiche-principali",
+    "href": "tests/gems/it.html#caratteristiche-principali",
+    "title": "GEMS ",
+    "section": "Caratteristiche principali",
+    "text": "Caratteristiche principali\n\n\nCampione normativo 635 adulti sani italiani (396 donne)\n\n\nEtà 18–100 anni\n\n\nSomministrazione ~10 min in presenza, carta e matita\n\n\nPunteggio 0–100 11 prove con lo stesso peso\n\n\n\nProprietà psicometriche\n\n\n\n\n\n\n\nProprietà\nRisultato\n\n\n\n\nCoerenza interna\nα di Cronbach = 0,81\n\n\nAttendibilità test-retest (GEMS-A, n = 52)\nr = 0,845\n\n\nForme parallele (GEMS-A vs GEMS-B, n = 59)\nr = 0,774, nessun effetto pratica\n\n\nValidità convergente (n = 60)\nMoCA r = 0,723; ENB-2 r = 0,811\n\n\nValidità discriminante (49 pazienti con malattia di Parkinson)\nAUC = 0,786 (IC 95% 0,716–0,856)\n\n\nNorme\nCut-off basati su regressione per età, sesso, scolarità e Indice di Riserva Cognitiva\n\n\nFollow-up\nSoglie di cambiamento significativo nel tempo\n\n\n\nProve: orientamento, memoria immediata, mesi all’indietro, puzzle, orologio, memoria differita, denominazione, comprensione, attenzione, fluenza verbale, comprensione di metafore."
+  },
+  {
+    "objectID": "tests/gems/it.html#scarica-i-materiali",
+    "href": "tests/gems/it.html#scarica-i-materiali",
+    "title": "GEMS ",
+    "section": " Scarica i materiali",
+    "text": "Scarica i materiali\nUso libero con licenza Creative Commons. I file sono scaricati dal repository OSF.\n\n Istruzioni (PDF)  Protocollo GEMS-A  Protocollo GEMS-B\n\n\n Calcolo del punteggio (Excel)  Codice R e Shiny app per i cut-off  Repository OSF"
+  },
+  {
+    "objectID": "tests/gems/it.html#come-citare",
+    "href": "tests/gems/it.html#come-citare",
+    "title": "GEMS ",
+    "section": "Come citare",
+    "text": "Come citare\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Global Examination of Mental State",
+    "section": "",
+    "text": "Open-access cognitive screening\n\nGlobal Examination of Mental State\n\nThree free, validated tools for the brief assessment of cognition: in person, by telephone, or self-administered on the web. Each comes with normative data, cut-offs that account for cognitive reserve, and all materials needed to use it.\n\n\n\n\n\n\n\nIn person · paper and pencil\n\nGEMS\n\n\nA paper-and-pencil screening of global cognition with 11 tasks covering orientation, memory, attention, visuo-spatial skills, language and pragmatics. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\n\nRemote · telephone\n\nTele-GEMS\n\n\nThe telephone version of GEMS for remote screening, with 10 tasks that mirror the in-person test. It takes about 10 minutes.\n\n\n\n \n\nLearn more →\n\n\n\n\nSelf-administered · web\n\nAuto-GEMS\n\n\nA self-administered web version that runs in any browser, online or offline, and compares the result with the normative data automatically. It takes about 10 minutes.\n\n\n\n\n\nLearn more →\n\n\n\n\n\n\n\nFree and open\nRecord forms, instructions, scoring sheets and code are released under a Creative Commons licence on OSF.\n\n\n\n\n\nLarge normative samples\nThe norms are based on 600 to 1,300 healthy adults per test, covering the adult lifespan.\n\n\n\n\n\nCognitive reserve\nThe cut-offs account for age, sex, education and the Cognitive Reserve Index (CRIq).\n\n\n\n\n\nBuilt for follow-up\nParallel forms A and B and significant-change thresholds support repeated assessments."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "For questions about the tests, the materials or the norms, or to propose a translation or adaptation, write to us."
+  },
+  {
+    "objectID": "contact.html#contributing-a-translation",
+    "href": "contact.html#contributing-a-translation",
+    "title": "Contact us",
+    "section": "Contributing a translation",
+    "text": "Contributing a translation\nWe welcome translations and cross-cultural validations. Please tell us which test and language you are interested in, and briefly describe your project. New versions will be published on this site with their own flag and download page."
+  },
+  {
+    "objectID": "group.html",
+    "href": "group.html",
+    "title": "The group",
+    "section": "",
+    "text": "GEMS is developed by researchers from the University of Padua and IRCCS San Camillo Hospital in Venice, who are members of the NICLA group (Neuropsychology: Innovative concepts for Clinical Assessment and rehabilitation).\n\n\n\n\n\nSara Mondini\nUniversity of Padua\n\n\n\n\n\nGiorgio Arcara\nUniversity of Padua\n\n\n\n\n\nSonia Montemurro\nUniversity of Padua\n\n\n\n\nPhotos courtesy of the NICLA group. The GEMS tools were developed with many colleagues; see the publications for the full author lists."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About GEMS",
+    "section": "",
+    "text": "The Global Examination of Mental State (GEMS) is a family of brief cognitive screening tools. They give a quick, reliable picture of a person’s global cognitive functioning when a full neuropsychological assessment is not needed or not possible.\n\n\nMany screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not freely available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen materials. Record forms, instructions, scoring sheets and code are free under a Creative Commons licence.\n\n\n\n\n\n\n\nTest\nMode\nTasks\nNormative sample\n\n\n\n\nGEMS\nIn person, paper and pencil\n11\n635 adults, 18–100 years\n\n\nTele-GEMS\nRemote, by telephone\n10\n601 adults\n\n\nAuto-GEMS\nSelf-administered, web-based\n11\n1,308 adults, 18–93 years\n\n\n\nThe three versions share the same structure, so results can be compared across settings. For example, a patient first seen in person can be followed up remotely.\n\n\n\nGEMS tools are screenings. They do not replace a comprehensive neuropsychological assessment and should be interpreted by qualified professionals."
+  },
+  {
+    "objectID": "about.html#why-another-screening",
+    "href": "about.html#why-another-screening",
+    "title": "About GEMS",
+    "section": "",
+    "text": "Many screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not freely available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen materials. Record forms, instructions, scoring sheets and code are free under a Creative Commons licence."
+  },
+  {
+    "objectID": "about.html#three-administration-modes",
+    "href": "about.html#three-administration-modes",
+    "title": "About GEMS",
+    "section": "",
+    "text": "Test\nMode\nTasks\nNormative sample\n\n\n\n\nGEMS\nIn person, paper and pencil\n11\n635 adults, 18–100 years\n\n\nTele-GEMS\nRemote, by telephone\n10\n601 adults\n\n\nAuto-GEMS\nSelf-administered, web-based\n11\n1,308 adults, 18–93 years\n\n\n\nThe three versions share the same structure, so results can be compared across settings. For example, a patient first seen in person can be followed up remotely."
+  },
+  {
+    "objectID": "about.html#intended-use",
+    "href": "about.html#intended-use",
+    "title": "About GEMS",
+    "section": "",
+    "text": "GEMS tools are screenings. They do not replace a comprehensive neuropsychological assessment and should be interpreted by qualified professionals."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "The project",
+    "section": "",
+    "text": "GEMS is an open-science project for brief cognitive assessment. It started with the paper-and-pencil GEMS (2022) and grew into a family of tools for in-person, telephone and web-based screening. The work is a collaboration between the University of Padua and IRCCS San Camillo Hospital in Venice, within the NICLA group.\n\n\nAll materials are on the Open Science Framework (OSF) under a Creative Commons licence: record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs.\n\nGEMS: osf.io/4t5a8\nTele-GEMS: osf.io/t3bma\nAuto-GEMS: osf.io/fq8g7\n\n\n\n\nOpen materials make it easy to translate GEMS and collect normative data in other countries. Each test on this site has one page per language, marked by a flag. New languages are added as translations become available.\nIf you would like to translate, adapt or norm GEMS in your language, contact us. We are happy to support cross-cultural validation projects.\n\n\n\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nPucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z"
+  },
+  {
+    "objectID": "project.html#open-by-design",
+    "href": "project.html#open-by-design",
+    "title": "The project",
+    "section": "",
+    "text": "All materials are on the Open Science Framework (OSF) under a Creative Commons licence: record forms, instructions, scoring sheets, analysis code and Shiny apps for the cut-offs.\n\nGEMS: osf.io/4t5a8\nTele-GEMS: osf.io/t3bma\nAuto-GEMS: osf.io/fq8g7"
+  },
+  {
+    "objectID": "project.html#translations-and-adaptations",
+    "href": "project.html#translations-and-adaptations",
+    "title": "The project",
+    "section": "",
+    "text": "Open materials make it easy to translate GEMS and collect normative data in other countries. Each test on this site has one page per language, marked by a flag. New languages are added as translations become available.\nIf you would like to translate, adapt or norm GEMS in your language, contact us. We are happy to support cross-cultural validation projects."
+  },
+  {
+    "objectID": "project.html#publications",
+    "href": "project.html#publications",
+    "title": "The project",
+    "section": "",
+    "text": "Mondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710\nMontemurro, S., Mondini, S., Pucci, V., Durante, G., Riccardi, A., Maffezzini, S., Scialpi, G., Signorini, M., & Arcara, G. (2023). Tele-Global Examination of Mental State (Tele-GEMS): an open tool for the remote neuropsychological screening. Neurological Sciences, 44, 3499–3508. https://doi.org/10.1007/s10072-023-06862-1\nPucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z"
+  },
+  {
+    "objectID": "tests/gems/en.html",
+    "href": "tests/gems/en.html",
+    "title": "GEMS ",
+    "section": "",
+    "text": "Home / GEMS / English\n\n\nGlobal Examination of Mental State · English materials"
+  },
+  {
+    "objectID": "tests/gems/en.html#main-characteristics",
+    "href": "tests/gems/en.html#main-characteristics",
+    "title": "GEMS ",
+    "section": "Main characteristics",
+    "text": "Main characteristics\n\n\nNormative sample 635 healthy Italian adults (396 women)\n\n\nAge range 18–100 years\n\n\nAdministration ~10 min in person, paper and pencil\n\n\nScore 0–100 11 equally weighted tasks\n\n\n\nPsychometric properties\n\n\n\n\n\n\n\nProperty\nResult\n\n\n\n\nInternal consistency\nCronbach’s α = 0.81\n\n\nTest-retest reliability (GEMS-A, n = 52)\nr = 0.845\n\n\nParallel forms (GEMS-A vs GEMS-B, n = 59)\nr = 0.774, no practice effect\n\n\nConvergent validity (n = 60)\nMoCA r = 0.723; ENB-2 r = 0.811\n\n\nDiscriminant validity (49 patients with Parkinson’s disease)\nAUC = 0.786 (95% CI 0.716–0.856)\n\n\nNorms\nRegression-based cut-offs for age, sex, education and Cognitive Reserve Index\n\n\nFollow-up\nThresholds for significant change over time\n\n\n\nTasks: orientation, immediate memory, backward months, puzzle, clock, delayed memory, naming, comprehension, attention, verbal fluency, metaphor comprehension."
+  },
+  {
+    "objectID": "tests/gems/en.html#download-the-materials",
+    "href": "tests/gems/en.html#download-the-materials",
+    "title": "GEMS ",
+    "section": " Download the materials",
+    "text": "Download the materials\nFree to use under a Creative Commons licence. Files are served from the OSF repository.\n\n Instructions (PDF)  Record form GEMS-A  Record form GEMS-B\n\n\n Scoring sheet (Excel)  R code and Shiny app for cut-offs  OSF repository"
+  },
+  {
+    "objectID": "tests/gems/en.html#how-to-cite",
+    "href": "tests/gems/en.html#how-to-cite",
+    "title": "GEMS ",
+    "section": "How to cite",
+    "text": "How to cite\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710"
+  },
+  {
+    "objectID": "tests/gems/index.html",
+    "href": "tests/gems/index.html",
+    "title": "GEMS",
+    "section": "",
+    "text": "Home / Tests\n\n\nGlobal Examination of Mental State"
+  },
+  {
+    "objectID": "tests/gems/index.html#choose-a-language",
+    "href": "tests/gems/index.html#choose-a-language",
+    "title": "GEMS",
+    "section": "Choose a language",
+    "text": "Choose a language\nEach language page lists the main characteristics of the test and the materials to download.\n\nItalianoOriginal version, Italian norms\nEnglishTranslated materials"
+  },
+  {
+    "objectID": "tests/gems/index.html#reference",
+    "href": "tests/gems/index.html#reference",
+    "title": "GEMS",
+    "section": "Reference",
+    "text": "Reference\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710"
   },
   {
     "objectID": "tests/tele-gems/it.html",
@@ -229,61 +285,5 @@
     "title": "Auto-GEMS ",
     "section": "Come citare",
     "text": "Come citare\n\nPucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S., & Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a web-based self-administered cognitive screening. Aging Clinical and Experimental Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z"
-  },
-  {
-    "objectID": "tests/gems/index.html",
-    "href": "tests/gems/index.html",
-    "title": "GEMS",
-    "section": "",
-    "text": "Home / Tests\n\n\nGlobal Examination of Mental State"
-  },
-  {
-    "objectID": "tests/gems/index.html#choose-a-language",
-    "href": "tests/gems/index.html#choose-a-language",
-    "title": "GEMS",
-    "section": "Choose a language",
-    "text": "Choose a language\nEach language page lists the main characteristics of the test and the materials to download.\n\nItalianoOriginal version, Italian norms\nEnglishTranslated materials"
-  },
-  {
-    "objectID": "tests/gems/index.html#reference",
-    "href": "tests/gems/index.html#reference",
-    "title": "GEMS",
-    "section": "Reference",
-    "text": "Reference\n\nMondini, S., Montemurro, S., Pucci, V., Ravelli, A., Signorini, M., & Arcara, G. (2022). Global Examination of Mental State: An open tool for the brief evaluation of cognition. Brain and Behavior, 12(8), e2710. https://doi.org/10.1002/brb3.2710"
-  },
-  {
-    "objectID": "group.html",
-    "href": "group.html",
-    "title": "The group",
-    "section": "",
-    "text": "GEMS is developed by researchers from the University of Padua and IRCCS San Camillo Hospital in Venice, who are members of the NICLA group (Neuropsychology: Innovative concepts for Clinical Assessment and rehabilitation).\n\n\n\n\n\nSara Mondini\nUniversity of Padua\n\n\n\n\n\nGiorgio Arcara\nUniversity of Padua\n\n\n\n\n\nSonia Montemurro\nUniversity of Padua\n\n\n\n\nPhotos courtesy of the NICLA group. The GEMS tools were developed with many colleagues; see the publications for the full author lists."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About GEMS",
-    "section": "",
-    "text": "The Global Examination of Mental State (GEMS) is a family of brief cognitive screening tools. They give a quick, reliable picture of a person’s global cognitive functioning when a full neuropsychological assessment is not needed or not possible.\n\n\nMany screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not freely available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen materials. Record forms, instructions, scoring sheets and code are free under a Creative Commons licence.\n\n\n\n\n\n\n\nTest\nMode\nTasks\nNormative sample\n\n\n\n\nGEMS\nIn person, paper and pencil\n11\n635 adults, 18–100 years\n\n\nTele-GEMS\nRemote, by telephone\n10\n601 adults\n\n\nAuto-GEMS\nSelf-administered, web-based\n11\n1,308 adults, 18–93 years\n\n\n\nThe three versions share the same structure, so results can be compared across settings. For example, a patient first seen in person can be followed up remotely.\n\n\n\nGEMS tools are screenings. They do not replace a comprehensive neuropsychological assessment and should be interpreted by qualified professionals."
-  },
-  {
-    "objectID": "about.html#why-another-screening",
-    "href": "about.html#why-another-screening",
-    "title": "About GEMS",
-    "section": "",
-    "text": "Many screenings are tuned to a single condition, show ceiling effects in healthy people, or rely on norms that are outdated or not freely available. GEMS was designed to address these issues:\n\nBroad coverage. Orientation, memory, working memory, visuo-spatial and planning abilities, attention, language and pragmatics, in about 10 minutes.\nNo ceiling effect in healthy adults, so differences between individuals remain visible.\nCognitive reserve. Cut-offs consider the Cognitive Reserve Index (CRIq) together with age, sex and education, so expectations are more precise than with education alone.\nRepeated testing. Parallel forms and significant-change thresholds support longitudinal monitoring.\nOpen materials. Record forms, instructions, scoring sheets and code are free under a Creative Commons licence."
-  },
-  {
-    "objectID": "about.html#three-administration-modes",
-    "href": "about.html#three-administration-modes",
-    "title": "About GEMS",
-    "section": "",
-    "text": "Test\nMode\nTasks\nNormative sample\n\n\n\n\nGEMS\nIn person, paper and pencil\n11\n635 adults, 18–100 years\n\n\nTele-GEMS\nRemote, by telephone\n10\n601 adults\n\n\nAuto-GEMS\nSelf-administered, web-based\n11\n1,308 adults, 18–93 years\n\n\n\nThe three versions share the same structure, so results can be compared across settings. For example, a patient first seen in person can be followed up remotely."
-  },
-  {
-    "objectID": "about.html#intended-use",
-    "href": "about.html#intended-use",
-    "title": "About GEMS",
-    "section": "",
-    "text": "GEMS tools are screenings. They do not replace a comprehensive neuropsychological assessment and should be interpreted by qualified professionals."
   }
 ]
