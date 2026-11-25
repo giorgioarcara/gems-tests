@@ -1,0 +1,43 @@
+Auto-GEMS software licence (MIT)
+
+This licence applies to the Auto-GEMS software: the HTML/JavaScript code of the
+Auto-GEMS JATOS study archives (auto-gems-A-it.jzip, auto-gems-B-it.jzip) and the
+R code of the Auto-GEMS Shiny app (auto-gems-shiny-app.zip).
+
+It does not apply to the Auto-GEMS test content (item texts, images, sounds,
+video, instructions, normative data and models), which is licensed under the
+Creative Commons Attribution - NonCommercial 4.0 International licence
+(CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/
+
+Third-party libraries bundled in the archives (jsPsych: MIT; Pure CSS: BSD;
+components under Apache 2.0) keep their own licences, included with them.
+
+Please cite: Pucci, V., Contemori, G., Saccani, M. S., Arcara, G., Mondini, S.,
+& Bonato, M. (2024). Auto-Global Examination of Mental State (Auto-GEMS): a
+web-based self-administered cognitive screening. Aging Clinical and Experimental
+Research, 36, 216. https://doi.org/10.1007/s40520-024-02862-z
+
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2024 Valentina Pucci, Giulio Contemori, Maria Silvia Saccani,
+Giorgio Arcara, Sara Mondini, Mario Bonato
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
