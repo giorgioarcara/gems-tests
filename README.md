@@ -28,7 +28,7 @@ quarto render    # build into _site/
 
 ## Materials (downloads)
 
-All materials and code are licensed under **CC BY-NC 4.0** (Attribution – NonCommercial); see [LICENSE.md](LICENSE.md).
+All materials and code are licensed under **CC BY-NC 4.0** (Attribution – NonCommercial), except the Auto-GEMS software (JATOS archive code and Shiny app code), which is under the **MIT** licence ([LICENSE-MIT-auto-gems.txt](LICENSE-MIT-auto-gems.txt)); see [LICENSE.md](LICENSE.md).
 
 Downloadable files (record forms, instructions, scoring sheets, R code, Shiny apps, JATOS archives) are **not committed**. They are GitHub Release assets of the release [`materials-v1`](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) and are linked from the language pages as:
 

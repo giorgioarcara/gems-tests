@@ -31,3 +31,4 @@ auto-gems-README.txt	hsud9	fq8g7/READ ME.txt	Auto-GEMS: overview and data-handli
 auto-gems-A-it.jzip	r9jw8	fq8g7/Source code (JZIP format)/auto-gems_a_italian_public.jzip	Auto-GEMS-A source, JATOS study archive (Italiano)
 auto-gems-B-it.jzip	r3qdj	fq8g7/Source code (JZIP format)/auto-gems_b_italian_public.jzip	Auto-GEMS-B source, JATOS study archive (Italiano)
 auto-gems-shiny-app.zip	bh6xj	fq8g7/Shiny app for cut-off calculation/auto-GEMS Shiny.zip	Auto-GEMS: Shiny app source for normative comparison (run in R)
+auto-gems-LICENSE-MIT.txt			Auto-GEMS: MIT licence for the software (JATOS archives and Shiny app code)

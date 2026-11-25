@@ -107,9 +107,11 @@ A self-administered web version that runs in any browser, online or offline, and
 Every GEMS tool is shared openly on this site, under the Creative Commons Attribution – NonCommercial 4.0 licence.
 This covers record forms, instructions, normative data, scoring sheets, analysis code and apps.
 You can use, translate and adapt them for non-commercial purposes, as long as you credit the original work.
+The Auto-GEMS software is the exception: it is under the MIT licence, which also allows commercial use.
 
 ::: {.licence-chips}
-[**All materials and code** · [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)]{.licence-chip}
+[**Materials and code** · [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)]{.licence-chip}
+[**Auto-GEMS code** · [MIT](https://opensource.org/license/mit)]{.licence-chip}
 [<i class="bi bi-person-check"></i> Attribution]{.licence-chip}
 [<i class="bi bi-slash-circle"></i> Non-commercial]{.licence-chip}
 :::
@@ -124,7 +126,7 @@ You can use, translate and adapt them for non-commercial purposes, as long as yo
 
 ### Open
 
-Record forms, instructions, scoring sheets and code are shared openly on this site under the CC BY-NC 4.0 licence.
+Record forms, instructions, scoring sheets and code are shared openly on this site under the CC BY-NC 4.0 licence (Auto-GEMS software: MIT).
 :::
 
 ::: {.strip-item}

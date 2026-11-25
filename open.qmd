@@ -7,7 +7,7 @@ title: "Open & licences"
 
 ::: {.prose}
 GEMS is an **Open** project. Every tool in the family is shared openly on this site: record forms, instructions, normative data and cut-offs, scoring sheets, analysis code and apps.
-All of them are released under the **[Creative Commons Attribution – NonCommercial 4.0 International licence (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.
+All of them are released under the **[Creative Commons Attribution – NonCommercial 4.0 International licence (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**, except the Auto-GEMS software, which is under the **[MIT licence](https://opensource.org/license/mit)**.
 You can use, translate and adapt them in clinical and research settings, as long as you credit the original work and do not use them commercially.
 :::
 :::
@@ -21,7 +21,7 @@ The article column shows the publisher's licence for each paper. That licence is
 |---|---|---|---|
 | **[GEMS](tests/gems/index.qmd)** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | R analysis code and Shiny app for cut-offs, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), [download](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) | Open access, Creative Commons Attribution (CC BY), *Brain and Behavior* (2022) |
 | **[Tele-GEMS](tests/tele-gems/index.qmd)** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | R analysis code and Shiny app for cut-offs, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), [download](https://github.com/giorgioarcara/gems-tests/releases/tag/materials-v1) | Published in *Neurological Sciences* (2023); not open access |
-| **[Auto-GEMS](tests/auto-gems/index.qmd)** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | Source code (JATOS study archives) and Shiny app, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). It runs on [JATOS](https://www.jatos.org/), which is Apache 2.0 | Open access, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), *Aging Clinical and Experimental Research* (2024) |
+| **[Auto-GEMS](tests/auto-gems/index.qmd)** | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | Code of the JATOS study archives and of the Shiny app, [MIT](https://opensource.org/license/mit) ([licence text](https://github.com/giorgioarcara/gems-tests/releases/download/materials-v1/auto-gems-LICENSE-MIT.txt)). Test content inside the archives stays CC BY-NC 4.0. It runs on [JATOS](https://www.jatos.org/), which is Apache 2.0 | Open access, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), *Aging Clinical and Experimental Research* (2024) |
 : {.props .licence-table}
 
 ## What you can do
